@@ -12,7 +12,7 @@ Output
 
 The site is plain files: no build server, no CDN, no framework.
 """
-import html, json, re, shutil
+import hashlib, html, json, re, shutil
 from pathlib import Path
 
 import mistune
@@ -94,6 +94,16 @@ def main() -> int:
 
     present = {d["collection"] for d in docs}
     catalog["collections"] = [c for c in catalog["collections"] if c["id"] in present]
+    # Cache-bust the shell assets so a deploy is picked up immediately: the
+    # script and stylesheet URLs carry a content hash.
+    for name in ("assets/app.js", "assets/app.css"):
+        target = OUT / name
+        if target.exists():
+            digest = hashlib.sha256(target.read_bytes()).hexdigest()[:10]
+            shell = OUT / "index.html"
+            shell_html = shell.read_text()
+            shell.write_text(shell_html.replace(f'"./{name}"', f'"./{name}?v={digest}"'))
+
     search = []
     for i, d in enumerate(docs):
         text = (COLLECTIONS / d["path"]).read_text(encoding="utf-8", errors="replace")
