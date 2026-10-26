@@ -63,6 +63,12 @@ def render(text: str, doc_id: str, alias: dict[str, str]) -> tuple[str, list[dic
     body = re.sub(r"<h([1-4])>(.*?)</h\1>", add_id, body, flags=re.S)
     # Footnote anchors get stable ids already; make ref markers clickable.
     body = re.sub(r"\[([A-Z]\d+)\]", r'<a class="ref" href="#/ref/\1" data-ref="\1">\1</a>', body)
+    # External links open in a new tab; internal router links stay in place.
+    body = re.sub(
+        r'<a href="(https?://[^"]+)"(?![^>]*data-ext)',
+        r'<a href="\1" target="_blank" rel="noopener" data-ext',
+        body,
+    )
     return body, headings
 
 
