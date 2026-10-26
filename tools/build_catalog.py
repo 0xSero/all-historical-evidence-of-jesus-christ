@@ -22,7 +22,7 @@ COLLECTIONS = {
     "archaeology": ("Archaeology and artifacts", "Inscriptions, ossuaries, mosaics, buildings, and scientific studies of relics."),
     "modern": ("Modern scholarship", "Articles, books, and reference works cited by the dossier; metadata and links only where the work is in copyright."),
     "denominational": ("Denominational and institutional statements", "How churches and movements describe Jesus in their own words."),
-    "registry": ("Gospel registry", "Thirty-six gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status in each tradition."),
+    "registry": ("Gospel registry", "Fifty-two gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status in each tradition."),
     "citations": ("Reference cards", "One page per numbered entry in the dossier's register: what the source is, what the dossier says it supports, and where it is cited."),
 }
 TEXT_GLOBS = ("*.md", "*.txt")

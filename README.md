@@ -24,13 +24,13 @@ python3 -m http.server -d docs 8123   # then open http://127.0.0.1:8123/
 | [witnesses](collections/witnesses/) | 8 | Josephus, Tacitus, Suetonius, Lucian, Mara bar Serapion, the Talmud, Thallus and Phlegon |
 | [legal](collections/legal/) | 3 | Pliny and Trajan, Hadrian's rescript, the 1994 Common Christological Declaration |
 | [archaeology](collections/archaeology/) | 9 | Pilate inscription, both ossuaries, Dura-Europos, Megiddo, the Frankfurt amulet, Nazareth inscription, Isaiah scroll, the shroud |
-| [denominational](collections/denominational/) | 3 | Nostra aetate, Dilexit nos, the 2024 norms on alleged supernatural phenomena |
-| [registry](collections/registry/) | 1 | Thirty-six gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status in each tradition. |
+| [denominational](collections/denominational/) | 4 | Nostra aetate, Dilexit nos, the 2024 norms on alleged supernatural phenomena |
+| [registry](collections/registry/) | 1 | Fifty-two gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status in each tradition. |
 | [citations](collections/citations/) | 238 | One page per register entry: the citation, what it supports, and where it is cited |
 | [references](collections/references/) | 238 | `refs.json` (exact link destinations from the PDF), `links.json` (mirrored entries), `links-report.md` (the verified match for each) |
 <!-- collections:end -->
 
-Also: [the gospel registry](collections/registry/gospel-registry.md), a register of 36 gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status by tradition.
+Also: [the gospel registry](collections/registry/gospel-registry.md), a register of 52 gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status by tradition.
 
 ## How the reference layer works
 

@@ -47,12 +47,12 @@
    "id": "denominational",
    "title": "Denominational and institutional statements",
    "blurb": "How churches and movements describe Jesus in their own words.",
-   "docs": 3
+   "docs": 4
   },
   {
    "id": "registry",
    "title": "Gospel registry",
-   "blurb": "Thirty-six gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status in each tradition.",
+   "blurb": "Fifty-two gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status in each tradition.",
    "docs": 1
   },
   {
@@ -1468,8 +1468,8 @@
    "source_url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/november/documents/hf_jp-ii_spe_19941111_dichiarazione-cristologica.html",
    "license": "© Libreria Editrice Vaticana; official magisterial document",
    "fetched": "2026-10-26",
-   "words": 1140,
-   "chars": 6806,
+   "words": 1114,
+   "chars": 6660,
    "excerpt": "Common Christological Declaration between the Catholic Church and the Assyrian Church of the East (November 11, 1994)",
    "refs": [
     "R84"
@@ -1675,6 +1675,24 @@
     "A25",
     "A26",
     "A47"
+   ]
+  },
+  {
+   "id": "denominational/catechism-ccc-464-469",
+   "title": "Catechism of the Catholic Church, 464-469 (True God and True Man)",
+   "collection": "denominational",
+   "path": "denominational/catechism-ccc-464-469.md",
+   "kind": "secondary",
+   "bucket": "",
+   "source_name": "Catechism of the Catholic Church, The Holy See (vatican.va)",
+   "source_url": "https://www.vatican.va/archive/ENG0015/__P1J.HTM",
+   "license": "© Libreria Editrice Vaticana; official magisterial text",
+   "fetched": "2026-10-26",
+   "words": 830,
+   "chars": 4688,
+   "excerpt": "Catechism of the Catholic Church, 464-469 (True God and True Man)",
+   "refs": [
+    "R95"
    ]
   },
   {
@@ -7507,7 +7525,7 @@
     "04-documentary-record": 1,
     "07-references": 1
    },
-   "doc": null
+   "doc": "denominational/catechism-ccc-464-469"
   },
   {
    "id": "R96",

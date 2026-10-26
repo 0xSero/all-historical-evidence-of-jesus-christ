@@ -39,6 +39,7 @@ the same work, and the marker that was found in that document to confirm the mat
 | R90 | Qur’an 4:157-158 Qur’anic denial of opponents killing/crucifying Jesus and affirmation that God raised him. | scripture/quran/surah-04 | women |
 | R91 | Qur’an 19:16-36 Mary, extraordinary conception/birth, infant speech, Jesus’s prophetic status. | scripture/quran/surah-19 | mary |
 | R93 | Qur’an 5:110 Jesus’s infant speech, clay bird, healing, and raising dead by divine permission. | scripture/quran/surah-05 | table |
+| R95 | Catechism of the Catholic Church, Article 3, paragraphs 464-469 Primary Catholic account of Nicaea, Arius, inc | denominational/catechism-ccc-464-469 | 464 |
 | R98 | Qur’an 3:45 Jesus named Messiah and a word from God; interpretation within Qur’anic framework. | scripture/quran/surah-03 | imran |
 | R101 | Suetonius, Life of Nero, chapter 16 Punishment of Christians under Nero; no biographical account of Jesus. | witnesses/suetonius-claudius-25 | claudius |
 | L03 | Luke 3, text and historical notes USCCB, New American Bible Revised Edition | scripture/new-testament/03-luke | ## Chapter 3 |

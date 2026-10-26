@@ -1,17 +1,8 @@
 <!-- Fetched from https://www.vatican.va/content/john-paul-ii/en/speeches/1994/november/documents/hf_jp-ii_spe_19941111_dichiarazione-cristologica.html on 2026-10-26. -->
+
 Common Christological Declaration between the Catholic Church and the Assyrian Church of the East (November 11, 1994)
 
-- A
-
-- A
-
-- A
-
-PDF generation in progress.....
-
- EN - IT
-
- ***COMMON CHRISTOLOGICAL DECLARATION
+***COMMON CHRISTOLOGICAL DECLARATION
 
  OF POPE JOHN PAUL II AND HIS HOLINESS MAR DINKHA IV, CATHOLICOS-PATRIARCH OF THE ASSYRIAN CHURCH OF THE EAST
 
@@ -57,9 +48,3 @@ In thanking God for having made us rediscover what already unites us in the fait
 **MAR DINKHA IV IOANNES PAULUS PP. II **
 
  © Copyright 1994 - Libreria Editrice Vaticana
-
- Copyright © Dicastery for Communication
-
-## *The* **Holy See**
-
-## *The* **Holy See**

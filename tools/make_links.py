@@ -82,7 +82,7 @@ RULES: list[tuple[str, str, str]] = [
     (r"dilexit nos", "denominational/dilexit-nos-2024", "dilexit nos"),
     (r"norms for proceeding.*supernatural|discernment of alleged supernatural", "denominational/norms-supernatural-phenomena-2024", "supernatural"),
     (r"common christological declaration", "legal/common-christological-declaration-1994", "assyrian"),
-    (r"catechism of the catholic church", "citations/catechism-ccc-464-469", "464"),
+    (r"catechism of the catholic church", "denominational/catechism-ccc-464-469", "464"),
     # Qur'an
     (r"qur.?an 3:45", "scripture/quran/surah-03", "imran"),
     (r"qur.?an 4:157", "scripture/quran/surah-04", "women"),
