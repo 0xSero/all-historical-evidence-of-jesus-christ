@@ -6,7 +6,9 @@ This repository holds three things:
 2. **The sources it cites** — every ancient text the dossier quotes, mirrored in a public-domain translation where one exists, with the exact destination of every reference link taken from the PDF itself.
 3. **A readable, searchable site** — [docs/index.html](docs/index.html), which turns the collections into a searchable archive with a reading pane, reference cards, and cross-links between the dossier's passages and the documents behind them.
 
-**Read it:** open `docs/index.html` in a browser, or serve it:
+**Read it:** <https://0xsero.github.io/all-historical-evidence-of-jesus-christ/>
+
+To run the same site locally, open `docs/index.html`, or serve it:
 
 ```sh
 python3 -m http.server -d docs 8123   # then open http://127.0.0.1:8123/
