@@ -8,6 +8,8 @@ This repository holds three things:
 
 **Read it:** <https://0xsero.github.io/all-historical-evidence-of-jesus-christ/>
 
+Every page carries two ways to reach every other source: hover any source link for a preview card (title, collection, excerpt, word count), and press `s` or click **All sources** in the top bar for the full list of all 335 documents, filterable, with arrow-key navigation. Deep links are hash routes, so they survive reloads; a `404.html` rewrites path-style links such as `/doc/fathers/didache` to the right page.
+
 To run the same site locally, open `docs/index.html`, or serve it:
 
 ```sh

@@ -20,6 +20,9 @@
     <div class="search-results" id="search-results" role="listbox" aria-label="Search results" hidden></div>
   </form>
   <div class="topbar-actions">
+    <button id="sources-btn" class="icon-btn with-label" type="button" aria-haspopup="dialog" aria-controls="sources" title="Every source in the archive (s)">
+      <span aria-hidden="true">☰</span><span class="btn-label">All sources</span>
+    </button>
     <button id="theme" class="icon-btn" type="button" aria-label="Toggle colour theme" title="Toggle colour theme">◐</button>
     <button id="nav-toggle" class="icon-btn" type="button" aria-label="Toggle index" aria-expanded="false" title="Index">☰</button>
   </div>
@@ -46,6 +49,22 @@
 </div>
 
 <aside class="panel" id="panel" hidden aria-live="polite"></aside>
+
+<div class="preview" id="preview" hidden role="tooltip"></div>
+
+<div class="dialog" id="sources" role="dialog" aria-modal="true" aria-labelledby="sources-title" hidden>
+  <div class="dialog-box">
+    <div class="dialog-head">
+      <h2 id="sources-title">Every source in the archive</h2>
+      <button class="icon-btn" type="button" data-close-sources aria-label="Close sources list">✕</button>
+    </div>
+    <div class="dialog-filter">
+      <input id="sources-filter" type="search" placeholder="Filter by title, collection, or source name" aria-label="Filter sources" autocomplete="off">
+    </div>
+    <div class="dialog-list" id="sources-list" role="listbox" aria-label="Sources"></div>
+    <div class="dialog-foot" id="sources-foot"></div>
+  </div>
+</div>
 
 <script src="./assets/app.js"></script>
 </body>

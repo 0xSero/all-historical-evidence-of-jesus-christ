@@ -48,6 +48,8 @@ async function boot() {
   $("#search-form").addEventListener("submit", (e) => { e.preventDefault(); if (state.results[0]) openDoc(state.results[0].id); });
   document.addEventListener("keydown", onGlobalKey);
   document.addEventListener("click", onDocClick);
+  initPreview();
+  initSources();
   panel.addEventListener("click", (e) => { if (e.target.closest("[data-close-panel]")) hidePanel(); });
   $("#nav-toggle").addEventListener("click", () => {
     const open = $(".sidebar").classList.toggle("open");
@@ -217,8 +219,17 @@ async function renderDoc(id, anchor) {
 }
 
 function renderNotFound(id) {
-  main.innerHTML = `<div class="main-inner"><h1 class="page-title">Not found</h1>
-    <p class="page-lede">No document <code>${esc(id)}</code> in this archive. <a href="#/" data-link>Back to the index</a>.</p></div>`;
+  const known = state.docs.get(id);
+  const raw = known
+    ? `https://github.com/0xSero/all-historical-evidence-of-jesus-christ/blob/main/collections/${esc(known.path)}`
+    : "https://github.com/0xSero/all-historical-evidence-of-jesus-christ/tree/main/collections";
+  main.innerHTML = `<div class="main-inner"><h1 class="page-title">This document could not be loaded</h1>
+    <p class="page-lede"><code>${esc(id)}</code> is${known ? "" : " not"} in the catalog, but its rendered page
+      did not arrive. The Markdown source is always available:
+      <a href="${raw}" target="_blank" rel="noopener" data-ext>open it on GitHub</a>.</p>
+    <p class="page-lede">Other ways in: <a href="#/" data-link>index</a> ·
+      <button class="icon-btn" type="button" onclick="document.getElementById('sources-btn').click()">all sources</button> ·
+      press <kbd>/</kbd> to search.</p></div>`;
 }
 
 function buildToc(headings) {
@@ -387,11 +398,144 @@ async function renderSearchPage(q) {
 
 function openDoc(id) { location.hash = "#/doc/" + encodeURIComponent(id); }
 
+
+/* ---------- hover previews for every internal source link ---------- */
+const previewEl = $("#preview");
+let previewTimer = 0, previewFor = null;
+
+function docMeta(id) { return state.docs.get(id); }
+
+function previewForLink(a) {
+  const m = a.getAttribute("href").match(/^#\/doc\/(.+?)(?:#.*)?$/);
+  if (!m) return null;
+  return docMeta(decodeURIComponent(m[1]));
+}
+
+function showPreview(a) {
+  const doc = previewForLink(a);
+  if (!doc) return;
+  const coll = collTitle(doc.collection);
+  previewEl.innerHTML = `
+    <div class="pv-meta">${esc(coll)}${doc.kind === "primary" ? " · primary source" : ""}</div>
+    <div class="pv-title">${esc(doc.title)}</div>
+    <div class="pv-excerpt">${esc((doc.excerpt || "").slice(0, 240))}${(doc.excerpt || "").length > 240 ? "…" : ""}</div>
+    <div class="pv-foot">${doc.words ? doc.words.toLocaleString() + " words · " : ""}${esc(doc.source_name || "")}</div>`;
+  previewEl.hidden = false;
+  const r = a.getBoundingClientRect();
+  const box = previewEl.getBoundingClientRect();
+  let left = Math.min(Math.max(8, r.left), window.innerWidth - box.width - 8);
+  let top = r.bottom + 8;
+  if (top + box.height > window.innerHeight - 8) top = Math.max(8, r.top - box.height - 8);
+  previewEl.style.left = left + "px";
+  previewEl.style.top = top + "px";
+  previewFor = a;
+}
+
+function hidePreview() {
+  clearTimeout(previewTimer);
+  previewEl.hidden = true;
+  previewFor = null;
+}
+
+function initPreview() {
+  const over = (e) => {
+    const a = e.target.closest && e.target.closest('a[href^="#/doc/"]');
+    if (!a || a === previewFor) return;
+    if (document.querySelector("#sources")?.hidden === false) return;
+    clearTimeout(previewTimer);
+    previewTimer = setTimeout(() => showPreview(a), 220);
+  };
+  document.addEventListener("mouseover", over);
+  document.addEventListener("focusin", over);
+  document.addEventListener("mouseout", (e) => {
+    if (e.target.closest && e.target.closest('a[href^="#/doc/"]')) hidePreview();
+  });
+  document.addEventListener("focusout", hidePreview);
+  window.addEventListener("scroll", hidePreview, { passive: true });
+  window.addEventListener("hashchange", hidePreview);
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") hidePreview(); });
+}
+
+/* ---------- "all sources" dialog, reachable from every page ---------- */
+const sourcesEl = $("#sources");
+const sourcesList = $("#sources-list");
+const sourcesFilter = $("#sources-filter");
+let dlgItems = [], dlgSel = -1, dlgOpen = false;
+
+function sourcesRender(filter = "") {
+  const q = filter.trim().toLowerCase();
+  const groups = new Map();
+  for (const d of state.catalog.docs) {
+    const hay = (d.title + " " + collTitle(d.collection) + " " + (d.source_name || "") + " " + (d.excerpt || "")).toLowerCase();
+    if (q && !hay.includes(q)) continue;
+    if (!groups.has(d.collection)) groups.set(d.collection, []);
+    groups.get(d.collection).push(d);
+  }
+  dlgItems = [];
+  let html = "";
+  for (const [cid, docs] of groups) {
+    html += `<div class="dlg-group">${esc(collTitle(cid))} <span class="muted">${docs.length}</span></div>`;
+    for (const d of docs) {
+      const i = dlgItems.push(d) - 1;
+      html += `<a class="dlg-item" role="option" aria-selected="false" data-i="${i}" href="#/doc/${d.id}" data-link>
+        <span class="t">${esc(d.title)}</span>
+        <span class="m">${d.words ? d.words.toLocaleString() : ""}${d.kind === "primary" ? " · primary" : ""}</span></a>`;
+    }
+  }
+  sourcesList.innerHTML = html || `<div class="sr-empty">Nothing matches “${esc(filter)}”.</div>`;
+  $("#sources-foot").textContent = `${dlgItems.length} of ${state.catalog.docs.length} documents · ↑↓ to move · Enter to open · Esc to close`;
+  dlgSel = -1;
+}
+
+function openSources() {
+  dlgOpen = true;
+  sourcesEl.hidden = false;
+  sourcesFilter.value = "";
+  sourcesRender("");
+  sourcesFilter.focus();
+  hidePreview();
+}
+
+function closeSources() {
+  dlgOpen = false;
+  sourcesEl.hidden = true;
+  $("#sources-btn")?.focus();
+}
+
+function sourcesMove(delta) {
+  const items = [...sourcesList.querySelectorAll(".dlg-item")];
+  if (!items.length) return;
+  dlgSel = Math.max(0, Math.min(items.length - 1, dlgSel + delta));
+  items.forEach((el, i) => el.setAttribute("aria-selected", String(i === dlgSel)));
+  items[dlgSel].scrollIntoView({ block: "nearest" });
+}
+
+function initSources() {
+  $("#sources-btn").addEventListener("click", () => (dlgOpen ? closeSources() : openSources()));
+  sourcesEl.addEventListener("click", (e) => {
+    if (e.target === sourcesEl || e.target.closest("[data-close-sources]")) { closeSources(); return; }
+    const item = e.target.closest(".dlg-item");
+    if (item) { closeSources(); }
+  });
+  sourcesFilter.addEventListener("input", () => sourcesRender(sourcesFilter.value));
+  sourcesFilter.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowDown") { e.preventDefault(); sourcesMove(1); }
+    else if (e.key === "ArrowUp") { e.preventDefault(); sourcesMove(-1); }
+    else if (e.key === "Enter") {
+      e.preventDefault();
+      const items = [...sourcesList.querySelectorAll(".dlg-item")];
+      const target = dlgSel >= 0 ? items[dlgSel] : items[0];
+      if (target) { closeSources(); location.hash = target.getAttribute("href"); }
+    } else if (e.key === "Escape") { e.preventDefault(); closeSources(); }
+  });
+}
+
 /* ---------- global keys & click handling ---------- */
 function onGlobalKey(e) {
   const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName);
   if (e.key === "/" && !typing) { e.preventDefault(); qInput.focus(); qInput.select(); return; }
   if (e.key === "Escape") { hidePanel(); if (typing) { qInput.blur(); results.hidden = true; } return; }
+  if (e.key === "s" && !typing) { e.preventDefault(); dlgOpen ? closeSources() : openSources(); return; }
   if (typing) return;
   if (e.key === "j" || e.key === "k") { window.scrollBy({ top: e.key === "j" ? 240 : -240, behavior: "smooth" }); return; }
   if (e.key === "n" || e.key === "p") {
