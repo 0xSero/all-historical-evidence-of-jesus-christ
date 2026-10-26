@@ -14,6 +14,17 @@ A chronological guide to the evidence about Jesus. It covers the surviving narra
 | Length | ~35,000 words of analysis, plus linked references |
 | Research cutoff | 26 October 2026 |
 
+## Repository contents
+
+| Path | What it is |
+|---|---|
+| [Jesus_Christ_Research_Dossier.pdf](./Jesus_Christ_Research_Dossier.pdf) | The research dossier |
+| [GOSPEL-REGISTRY.md](./GOSPEL-REGISTRY.md) | Registry of 33 gospels and gospel-type texts (canonical, harmony, sayings, Gnostic, Jewish-Christian, narrative, infancy), with dates, manuscript witnesses, ancient verdicts, and canonical status by tradition |
+| [texts/new-testament/](./texts/new-testament/README.md) | All 27 New Testament books (World English Bible, public domain), one Markdown file per book |
+| [texts/extracanonical/](./texts/extracanonical/README.md) | Gnostic and other extracanonical gospels in public-domain translations: Thomas, Philip, Truth, Mary, Judas, Peter, the infancy gospels, Pistis Sophia, the Diatessaron, the Gospel of Nicodemus, and more |
+
+All bundled texts are public domain. Sources are listed in each folder's README.
+
 ## Approach
 
 The dossier keeps three kinds of claim apart and labels each one:
