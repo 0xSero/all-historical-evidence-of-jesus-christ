@@ -1,6 +1,6 @@
 # The Megiddo mosaic (the 'God Jesus Christ' inscription)
 
-> c. 230–260 CE. Source record: Israel Antiquities Authority; Museum of the Bible, Washington.
+> c. 230 CE. Source record: Israel Antiquities Authority; Museum of the Bible, Washington.
 
 In 2005, while a new wing was being built at Megiddo prison, excavation exposed a
 mosaic floor in a building identified as an early Christian prayer hall. The floor
@@ -8,10 +8,9 @@ carries a Greek inscription that includes the words `Θεῷ Ἰησοῦ Χρι
 Christ" — beside a dedication by a Roman officer named Gaianus and the names of women who
 funded the work.
 
-The mosaic is dated by its pottery, coins, and style to roughly the second quarter of the
-third century, before Constantine. The floor was lifted and conserved; it is displayed at
-the Museum of the Bible in Washington under an agreement with the Israel Antiquities
-Authority.
+The mosaic is dated by its pottery, coins, and style to about 230 CE, before Constantine.
+The floor was lifted and conserved, and was shown at the Museum of the Bible in
+Washington in 2024-2025 under an agreement with the Israel Antiquities Authority.
 
 What it establishes: a Christian meeting place with an explicitly christological
 inscription in the third century, and a community in the Jezreel valley of sufficient

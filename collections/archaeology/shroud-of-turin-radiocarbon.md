@@ -1,6 +1,6 @@
 # The Shroud of Turin: radiocarbon and later dating claims
 
-> 1988 radiocarbon; 2022 X-ray proposal. Source record: Nature 337 (1989) 611-615; Heritage 5 (2022) 860-870.
+> 1988 radiocarbon; 2022 X-ray proposal; 2026 sample studies. Source record: Nature 337 (1989) 611-615; Heritage 5 (2022) 860-870; npj Heritage Science (2026).
 
 In 1988, three laboratories (Arizona, Oxford, and the Swiss Federal Institute of
 Technology) dated samples from the Shroud of Turin by accelerator mass spectrometry. They
@@ -14,9 +14,10 @@ depends on assumed environmental history; it has not displaced the radiocarbon r
 most specialists.
 
 Other work has examined whether the 1988 samples were contaminated by repair or by
-handling (Freer-Waters and Jull, *npj Heritage Science*, 2021 on textile fragments), and
-whether bleaching treatments affected the linen (Barta and Ruiz-Navas, *npj Heritage
-Science*).
+handling (Freer-Waters and Jull, *npj Heritage Science*, 18 April 2026, on textile
+fragments), and whether bleaching treatments affected the linen (Barta and Ruiz-Navas,
+*npj Heritage Science*, 24 September 2026). Neither paper redates the cloth; they examine
+the sample and its treatment history.
 
 What it establishes: a linen cloth of the 13th-14th century on the radiocarbon evidence,
 bearing an image whose formation is not fully explained. The 1988 measurement is the one

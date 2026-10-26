@@ -8,8 +8,8 @@ Aramaic inscriptions: `Yehosef bar Qayafa` — "Joseph son of Caiaphas" — and,
 roughly, `Qafa`.
 
 The Israel Antiquities Authority published the find, and the ossuary is now in the
-Israel Museum. Excavators also recovered a coin of Herod Agrippa I (struck 42/43 CE) in
-the same burial context, which is consistent with a mid-first-century deposit.
+Israel Museum. The burial cave was a family tomb of the first century; the archaeological
+report dates its use to that period.
 
 What it establishes: a family of high-priestly rank used the name Caiaphas in Jerusalem
 in roughly the period the Gospels assign to the high priest who interrogated Jesus. The
