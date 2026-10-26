@@ -11,7 +11,7 @@
    "id": "scripture",
    "title": "Scripture",
    "blurb": "The New Testament in the public-domain World English Bible, one file per book.",
-   "docs": 27
+   "docs": 31
   },
   {
    "id": "gospels",
@@ -48,6 +48,12 @@
    "title": "Denominational and institutional statements",
    "blurb": "How churches and movements describe Jesus in their own words.",
    "docs": 3
+  },
+  {
+   "id": "registry",
+   "title": "Gospel registry",
+   "blurb": "Thirty-six gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status in each tradition.",
+   "docs": 1
   },
   {
    "id": "citations",
@@ -653,6 +659,70 @@
    "refs": []
   },
   {
+   "id": "scripture/quran/surah-03",
+   "title": "Qur'an, Surah 3 (Al-Imran), Palmer translation (1880)",
+   "collection": "scripture",
+   "path": "scripture/quran/surah-03.md",
+   "kind": "primary",
+   "bucket": "",
+   "source_name": "E. H. Palmer, Sacred Books of the East vols. 6 & 9 (1880), via Wikisource",
+   "source_url": "https://en.wikisource.org/wiki/The_Qur'an_(Palmer)/Imran",
+   "license": "Public domain",
+   "fetched": "2026-10-26",
+   "words": 7410,
+   "chars": 39094,
+   "excerpt": "A.L.M. God, there is no god but He, the living, the self-subsistent. He has sent down to thee the Book in truth, confirming what was before it, and has revealed the law, and the gospel before for the guidance of men, and has revealed the Discrimination.",
+   "refs": []
+  },
+  {
+   "id": "scripture/quran/surah-04",
+   "title": "Qur'an, Surah 4 (An-Nisa), Palmer translation (1880)",
+   "collection": "scripture",
+   "path": "scripture/quran/surah-04.md",
+   "kind": "primary",
+   "bucket": "",
+   "source_name": "E. H. Palmer, Sacred Books of the East vols. 6 & 9 (1880), via Wikisource",
+   "source_url": "https://en.wikisource.org/wiki/The_Qur'an_(Palmer)/Nisa",
+   "license": "Public domain",
+   "fetched": "2026-10-26",
+   "words": 7339,
+   "chars": 38858,
+   "excerpt": "O ye folk! fear your Lord, who created you from one soul, and created therefrom its mate, and diffused from them twain many men and women. And fear God, in whose name ye beg of one another, and the wombs; verily, God over you doth watch[1].",
+   "refs": []
+  },
+  {
+   "id": "scripture/quran/surah-05",
+   "title": "Qur'an, Surah 5 (Al-Maidah), Palmer translation (1880)",
+   "collection": "scripture",
+   "path": "scripture/quran/surah-05.md",
+   "kind": "primary",
+   "bucket": "",
+   "source_name": "E. H. Palmer, Sacred Books of the East vols. 6 & 9 (1880), via Wikisource",
+   "source_url": "https://en.wikisource.org/wiki/The_Qur'an_(Palmer)/Maidah",
+   "license": "Public domain",
+   "fetched": "2026-10-26",
+   "words": 5664,
+   "chars": 29879,
+   "excerpt": "O ye who believe! fulfil your compacts.—Lawful for you are brute beasts, save what is here recited to you, not allowing you the chase while ye are on pilgrimage; verily, God ordaineth what He will.",
+   "refs": []
+  },
+  {
+   "id": "scripture/quran/surah-19",
+   "title": "Qur'an, Surah 19 (Maryam), Palmer translation (1880)",
+   "collection": "scripture",
+   "path": "scripture/quran/surah-19.md",
+   "kind": "primary",
+   "bucket": "",
+   "source_name": "E. H. Palmer, Sacred Books of the East vols. 6 & 9 (1880), via Wikisource",
+   "source_url": "https://en.wikisource.org/wiki/The_Qur'an_(Palmer)/Maryam",
+   "license": "Public domain",
+   "fetched": "2026-10-26",
+   "words": 2297,
+   "chars": 11527,
+   "excerpt": "K. H. Y. ʿH. Z. The mention of thy Lord’s mercy to His servant Zachariah, when he called on his Lord with a secret calling. Said he, ‘ My Lord ! verily, my bones are weak, and my head flares with hoariness ; — and I never was unfortunate in my prayers to Thee, my Lord ! 5 But I fear my heirs after m",
+   "refs": []
+  },
+  {
    "id": "gospels/egerton-gospel",
    "title": "The Unknown Gospel: Egerton Papyrus 2",
    "collection": "gospels",
@@ -899,7 +969,7 @@
   },
   {
    "id": "gospels/apocryphal-gospels-anf08-walker-1870",
-   "title": "Apocryphal gospels anf08 walker 1870",
+   "title": "Apocryphal Gospels Anf08 Walker 1870",
    "collection": "gospels",
    "path": "gospels/apocryphal-gospels-anf08-walker-1870.txt",
    "kind": "primary",
@@ -915,7 +985,7 @@
   },
   {
    "id": "gospels/diatessaron-tatian-hogg-1896",
-   "title": "Diatessaron tatian hogg 1896",
+   "title": "Diatessaron Tatian Hogg 1896",
    "collection": "gospels",
    "path": "gospels/diatessaron-tatian-hogg-1896.txt",
    "kind": "primary",
@@ -931,7 +1001,7 @@
   },
   {
    "id": "gospels/gutenberg/apocryphal-new-testament-hone-1820",
-   "title": "Apocryphal new testament hone 1820",
+   "title": "Apocryphal New Testament Hone 1820",
    "collection": "gospels",
    "path": "gospels/gutenberg/apocryphal-new-testament-hone-1820.txt",
    "kind": "primary",
@@ -947,7 +1017,7 @@
   },
   {
    "id": "gospels/gutenberg/gnosis-of-the-light-lamplugh-1918",
-   "title": "Gnosis of the light lamplugh 1918",
+   "title": "Gnosis Of The Light Lamplugh 1918",
    "collection": "gospels",
    "path": "gospels/gutenberg/gnosis-of-the-light-lamplugh-1918.txt",
    "kind": "primary",
@@ -963,7 +1033,7 @@
   },
   {
    "id": "gospels/gutenberg/gnostic-crucifixion-mead-1907",
-   "title": "Gnostic crucifixion mead 1907",
+   "title": "Gnostic Crucifixion Mead 1907",
    "collection": "gospels",
    "path": "gospels/gutenberg/gnostic-crucifixion-mead-1907.txt",
    "kind": "primary",
@@ -979,7 +1049,7 @@
   },
   {
    "id": "gospels/gutenberg/pistis-sophia-horner-1924",
-   "title": "Pistis sophia horner 1924",
+   "title": "Pistis Sophia Horner 1924",
    "collection": "gospels",
    "path": "gospels/gutenberg/pistis-sophia-horner-1924.txt",
    "kind": "primary",
@@ -1634,6 +1704,22 @@
    "refs": [
     "A42"
    ]
+  },
+  {
+   "id": "registry/gospel-registry",
+   "title": "Registry of Gospels and Their Canonical Status",
+   "collection": "registry",
+   "path": "registry/gospel-registry.md",
+   "kind": "secondary",
+   "bucket": "",
+   "source_name": "",
+   "source_url": "",
+   "license": "",
+   "fetched": "",
+   "words": 2816,
+   "chars": 19832,
+   "excerpt": "This registry lists every gospel and gospel-type text about Jesus that survives in full, survives in fragments, or is known only from ancient citations. For each one it records how the text was judged in ancient canon lists and what its canonical status is in Christian traditions today. Where this r",
+   "refs": []
   },
   {
    "id": "citations/A01",

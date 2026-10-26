@@ -18,18 +18,19 @@ python3 -m http.server -d docs 8123   # then open http://127.0.0.1:8123/
 | Collection | Documents | What it holds |
 |---|---|---|
 | [dossier](collections/dossier/) | 7 | The PDF's own text, sectioned, plus the 238-entry reference register |
-| [scripture](collections/scripture/) | 27 | New Testament, World English Bible, one file per book |
+| [scripture](collections/scripture/) | 31 | New Testament, World English Bible, one file per book |
 | [gospels](collections/gospels/) | 20 | Thomas, Philip, Truth, Mary, Judas, Peter, Egerton, the infancy gospels, Q, P.Oxy. 5575, Nicodemus, the Diatessaron |
 | [fathers](collections/fathers/) | 14 | Didache, Clement, Ignatius, Papias, Justin, Irenaeus, Eusebius, Origen, Hippolytus, Athanasius |
 | [witnesses](collections/witnesses/) | 8 | Josephus, Tacitus, Suetonius, Lucian, Mara bar Serapion, the Talmud, Thallus and Phlegon |
 | [legal](collections/legal/) | 2 | Pliny and Trajan, Hadrian's rescript, the 1994 Common Christological Declaration |
 | [archaeology](collections/archaeology/) | 9 | Pilate inscription, both ossuaries, Dura-Europos, Megiddo, the Frankfurt amulet, Nazareth inscription, Isaiah scroll, the shroud |
 | [denominational](collections/denominational/) | 3 | Nostra aetate, Dilexit nos, the 2024 norms on alleged supernatural phenomena |
+| [registry](collections/registry/) | 1 | Thirty-six gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status in each tradition. |
 | [citations](collections/citations/) | 238 | One page per register entry: the citation, what it supports, and where it is cited |
 | [references](collections/references/) | 238 | `refs.json` (exact link destinations from the PDF), `links.json` (mirrored entries), `links-report.md` (the verified match for each) |
 <!-- collections:end -->
 
-Also: [GOSPEL-REGISTRY.md](GOSPEL-REGISTRY.md), a register of 36 gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status by tradition.
+Also: [the gospel registry](collections/registry/gospel-registry.md), a register of 36 gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status by tradition.
 
 ## How the reference layer works
 

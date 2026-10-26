@@ -1,0 +1,223 @@
+<!-- Fetched from https://en.wikisource.org/wiki/The_Qur'an_(Palmer)/Maidah on 2026-10-26. -->
+
+The Chapter of the Table.
+
+(V. Medînah.)
+
+In the name of the merciful and compassionate God.
+
+O ye who believe! fulfil your compacts.—Lawful for you are brute beasts, save what is here recited to you, not allowing you the chase while ye are on pilgrimage; verily, God ordaineth what He will.
+
+O ye who believe! do not deem the monuments of God to be lawful, nor the sacred month[1], nor the offering, nor its neck garlands, nor those who sojourn at the sacred house, craving grace from their Lord and His pleasure.
+
+ ​But when ye are in lawful state again, then chase; and let not ill-will against the people who turned you from the Sacred Mosque[2] make you transgress; but help one another in righteousness and piety, and do not help one another to sin and enmity; but fear God,—verily, God is keen to punish.
+
+Forbidden to you is that which dies of itself, and blood, and the flesh of swine, and that which is devoted to other than God, and the strangled and the knocked down, and that which falls down, and the gored, and what wild beasts have eaten—except what ye slaughter in time—and what is sacrificed to idols[3], and dividing carcases by arrows[4].
+
+To-day shall those who disbelieve in your religion despair; do ye not then fear them, but fear me— 5 To-day is perfected for you your religion, and fulfilled upon you is my favour, and I am pleased for you to have Islâm for a religion. But he who is forced by hunger, not inclined wilfully to sin, verily, God is forgiving, compassionate.
+
+They will ask thee what is lawful for them? say, ‘Lawful for you are good things and what ye have taught beasts of prey (to catch), training them like dogs;—ye teach them as God taught you;—so eat of what they catch for you, and mention the name of God over it, and fear God, for verily, God is swift in reckoning up.’
+
+Lawful for you to-day are good things, and the food of those to whom the Book has been given is ​lawful for you, and your food is lawful for them; and chaste women of those who believe, and chaste women of those to whom the Book has been given before you,—when you have given them their hire, living chastely and not fornicating, and not taking paramours. But whoso disbelieves in the faith, of a truth his work is vain, and he shall be in the next life of those who lose.
+
+O ye who believe! when ye rise up to prayer wash your faces, and your hands as far as the elbows, and wipe your heads, and your feet down to the ankles. And if ye are polluted, then purify yourselves. But if ye are sick, or on a journey, or if one of you comes from the privy, or if ye have touched women and cannot find water, then take fine surface sand and wipe your faces and your hands therewith. God does not wish to make any hindrance for you; but He wishes to purify you and to fulfil his favour upon you; haply ye may give thanks.
+
+10 Remember the favour of God to you and His covenant which He covenanted with you, when ye said, 'We hear and we obey[5];' and fear God, verily, God knows the nature of men's breasts.
+
+O ye who believe! stand steadfast to God as witnesses with justice; and let not ill-will towards people make you sin by not acting with equity. Act with equity, that is nearer to piety, and fear God; for God is aware of what ye do.
+
+God has promised to those who believe and work righteousness, that for them is pardon and a mighty hire. But those who disbelieve and call our signs lies, these are the fellows of hell.
+
+ ​O ye who believe! remember God's favour towards you, when a people intended to stretch their hands against you, but He withheld their hands from you[6]; and upon God let believers rely.
+
+15 God did take a compact from the children of Israel, and raised up of them twelve wardens; and God said, ‘Verily, I am with you, if ye be steadfast in prayer, and give alms, and believe in my apostles, and assist them, and lend to God a goodly loan; then will I cover your offences and make you enter gardens beneath which rivers flow: and whoso disbelieves after that, he hath erred from the level way.
+
+And for that they broke their compact, we cursed them, and placed in their hearts hardness, so that they perverted the words from their places, and forgot a portion of what they were reminded of[7].
+
+But thou wilt not cease to light upon treachery amongst them, save a few of them; but pardon them and shun them; verily, God loves the kind.
+
+And of those who say, 'Verily, we are Christians,' we have taken a compact; but they have forgotten a portion of what they were reminded of; wherefore have we excited amongst them enmity and hatred till the resurrection day; but God will tell them of what they have done.
+
+O ye people of the Book! our Apostle has come to you to explain to you much of what ye had hidden of the Book, and to pardon much. There has come to you from God a light, and a perspicuous ​Book; God guides thereby those who follow His pleasure to the way of peace, and brings them into a right way.
+
+They misbelieve who say, ‘Verily, God is the Messiah the son of Mary;’ say, ‘Who has any hold on God, if he wished to destroy the Messiah the son of Mary, and his mother, and those who are on earth altogether?’
+
+20 God's is the kingdom of the heavens and the earth and what is between the two; He createth what He will, for God is mighty over all!
+
+But the Jews and the Christians say, ‘We are the sons of God and His beloved.’ Say, ‘Why then does He punish you for your sins? nay, ye are mortals of those whom He has created! He pardons whom He pleases, and punishes whom He pleases; for God's is the kingdom of the heavens and the earth, and what is between the two, and unto Him the journey is.
+
+O people of the Book! our Apostle has come to you, explaining to you the interval of apostles; lest ye say, ‘There came not to us a herald of glad tidings nor a warner.’ But there has come to you now a herald of glad tidings and a warner, and God is mighty over all!
+
+When Moses said to his people, ‘O my people! remember the favour of God towards you when He made amongst you prophets, and made for you kings, and brought you what never was brought to anybody in the worlds. O my people! enter the Holy Land which God has prescribed for you; and be ye not thrust back upon your hinder parts and retreat losers. 25 They said, ‘O Moses! verily, therein is a people, giants; and we will surely not enter therein ​until they go out from thence; but if they go out then we will enter in.’ Then said two men of those who fear,—God had been gracious to them both,—‘Enter ye upon them by the door, and when ye have entered it, verily, ye shall be victorious; and upon God do ye rely if ye be believers.’ They said, ‘O Moses! we shall never enter it so long as they are therein; so, go thou and thy Lord and fight ye twain; verily, we will sit down here.’ Said he, ‘My Lord, verily, I can control only myself and my brother; therefore part us from these sinful people.’ He said, ‘Then, verily, it is forbidden them; for forty years shall they wander about in the earth; so vex not thyself for the sinful people.’
+
+30 Recite to them the story of the two sons of Adam; truly when they offered an offering and it was accepted from one of them, and was not accepted from the other, that one said, ‘I will surely kill thee;’ he said, ‘God only accepts from those who fear. If thou dost stretch forth to me thine hand to kill me, I will not stretch forth mine hand to kill thee; verily, I fear God the Lord of the worlds; verily, I wish that thou mayest draw upon thee my sin and thy sin, and be of the fellows of the Fire, for that is the reward of the unjust.’ But his soul allowed him to slay his brother, and he slew him, and in the morning he was of those who lose. And God sent a crow to scratch in the earth and show him how he might hide his brother's shame, he said, ‘Alas, for me! Am I too helpless to become like this crow and hide my brother's shame?’ and in the morning he was of those who did repent.
+
+35 For this cause have we prescribed to the children of Israel that whoso kills a soul, unless it ​be for another soul or for violence in the land, it is as though he had killed men altogether; but whoso saves one, it is as though he saved men altogether.
+
+Our apostles came to them with manifest signs; then, verily, many of them did after that commit excesses in the earth.
+
+The reward of those who make war against God and His Apostle, and strive after violence in the earth, is only that they shall be slaughtered or crucified, or their hands cut off and their feet on alternate sides, or that they shall be banished from the land;—that is a disgrace for them in this world, and for them in the next is mighty woe; save for those who repent before ye have them in your power, for know ye that God is forgiving, merciful.
+
+O ye who believe! fear God and crave the means to approach Him, and be strenuous in His way, haply ye will prosper then.
+
+40 Verily, those who disbelieve, even though they had what is in the earth, all of it, and the like thereof with it, to offer as a ransom from the punishment of the resurrection day, it would not be accepted from them; but for them is grievous woe. They may wish to go forth from the Fire, but they shall not go forth therefrom, for them is lasting woe.
+
+The man thief and the woman thief, cut off the hands of both as a punishment, for that they have erred;—an example from God, for God is mighty, wise.
+
+But whoso turns again after his injustice and acts aright, verily, God will turn to him, for, verily, God is forgiving, merciful.
+
+Do ye not know that God, His is the kingdom of ​the heavens and the earth; He punishes whom He pleases, and forgives whom He pleases, for God is mighty over all?
+
+45 O thou Apostle! let not those grieve thee who vie in misbelief; or those who say with their mouths ‘We believe,’ but their hearts do not believe; or of those who are Jews, listeners to a lie,—listeners to other people, but who come not to thee. They pervert the words from their places and say, ‘If this is what ye are given, take it; but if ye are not given it, then beware!’ but he whom God wishes to mislead, thou canst do nothing with God for him; these are those whose hearts God wishes not to purify, for them in this world is disgrace, and for them in the next is mighty woe,—listeners to a lie, eaters of unlawful things!
+
+But if they come to thee, then judge between them or turn aside from them; but if thou turnest aside from them they shall not harm thee at all, but if thou judgest, then judge between them with justice, verily, God loves the just. But how should they make thee their judge, when they have the law wherein is God's judgment? Yet they turn back after that, for they do not believe.
+
+Verily, we have revealed the law in which is guidance and light; the prophets who were resigned did judge thereby those who were Jews, as did the masters[8] and doctors by what they remembered of the Book of God and by what they were witnesses of. Fear not men, but fear me, and sell not my signs for a little price; for whoso will not judge by what God has revealed, these be the misbelievers. ​We have prescribed for thee therein ‘a life for a life, and an eye for an eye, and a nose for a nose, and an ear for an ear, and a tooth for a tooth, and for wounds retaliation;’ but whoso remits it, it is an expiation for him, but he whoso will not judge by what God has revealed, these be the unjust.
+
+50 And we followed up the footsteps of these (prophets) with Jesus the son of Mary, confirming that which was before him and the law, and we brought him the gospel, wherein is guidance and light, verifying what was before it of the law, and a guidance and an admonition unto those who fear.
+
+Then let the people of the gospel judge by that which is revealed therein, for whoso will not judge by what God has revealed, these be the evildoers.
+
+We have revealed to thee the Book in truth verifying what was before it, and preserving it; judge then between them by what God has revealed, and follow not their lusts, turning away from what is given to thee of the truth.
+
+For each one of you have we made a law and a pathway; and had God pleased He would have made you one nation, but He will surely try you concerning that which He has brought you. Be ye therefore emulous in good deeds; to God is your return altogether, and He will let you know concerning that wherein ye do dispute.
+
+Wherefore judge thou between them by what God has revealed, and follow not their lusts; but beware lest they mislead thee from part of what God has revealed to thee; yet if they turn back, then know that God wishes to fall on them for some sins of theirs,—verily, many men are evildoers.
+
+55 Is it the judgment of the Ignorance they ​crave[9]? but who is better than God to judge for people who are sure?
+
+O ye who believe! take not the Jews and Christians for your patrons: they are patrons of each other; but whoso amongst you takes them for patrons, verily, he is of them, and, verily, God guides not an unjust people.
+
+Thou wilt see those in whose hearts is a sickness vieing with them; they say, ‘We fear lest there befall us a reverse.’ It may be God will give the victory, or an order from Himself, and they may awake repenting of what they thought in secret to themselves.
+
+Those who believe say, ‘Are these they who swore by God with their most strenuous oath that they were surely with you?’—their works are in vain and they shall wake the losers.
+
+O ye who believe! whoso is turned away from his religion—God will bring (instead) a people[10] whom He loves and who love Him, lowly to believers, lofty to unbelievers, strenuous in the way of God, fearing not the blame of him who blames. That is God’s grace! He gives it unto whom He pleases, for God both comprehends and knows.
+
+60 God only is your patron, and His Apostle and those who believe, who are steadfast in prayer and give alms, bowing down. Whoso taketh as patrons God and His apostles and those who believe;— verily, God’s crew, they are victorious!
+
+O ye who believe! take not for patrons those who ​take your religion for a jest or a sport, from amongst those who have been given the Book before and the misbelievers; but fear God if ye be believers. Nor those who, when ye call to prayer, take it for a jest and a sport; that is because they are a people who do not understand.
+
+Say, ‘O people of the Book! do ye disavow us, for aught but that we believe in God, and what was revealed to us before, and for that most of you are evildoers?’ :
+
+65 Say, ‘Can I declare unto you something worse than retribution from God?’ Whomsoever God has cursed and been wroth with—and he has made of them apes and swine—and who worship *T*â*gh*ût, they are in a worse plight and are more erring from the level path. When they come to you they say, ‘We believe;’ but they entered in with unbelief, and they went out therewith, and God knows best what they did hide.
+
+Thou wilt see many of them vieing in sin and enmity, and in eating unlawful things,—evil is it that they have done. The masters and their doctors prohibit them from speaking sin and eating unlawful things,—evil is what they have performed.
+
+The Jews say, ‘God's hand is fettered;’ their hands are fettered and they are cursed for what they said; nay! His hands are outspread, He expends how He pleases! and that which has been sent down to thee from thy Lord will surely increase many of them in their rebellion and misbelief, for we have cast amongst them enmity and hatred till the resurrection day. Whenever they light a fire[11] for war, ​God puts it out; they strive for corruption in the earth, but God loves not the corrupt.
+
+[70] But did the people of the Book believe and fear, we would cover their offences, and we would make them enter into gardens of pleasure; and were they steadfast in the law and the gospel, and what has been sent down to them from their Lord, they should eat from above them and below them. Amongst them are a nation who are moderate, but many of them—bad is what they do.
+
+O thou Apostle! preach what has been revealed to thee from thy Lord; if thou do it not thou hast not preached His message, and God will not hold thee free from men; for God guides not people who misbelieve.
+
+Say, ‘O people of the Book! ye rest on naught until ye stand fast by the law and the gospel, and what is revealed to you from your Lord.’ But what has been revealed to thee from thy Lord will of a surety increase many of them in rebellion and misbelief, vex not thyself then for a people who misbelieve.
+
+Verily, those who believe and those who are Jews, and the Sabæans, and the Christians, whosoever believes in God and the last day, and does what is right, there is no fear for them, nor shall they grieve.
+
+We took a compact of the children of Israel, and we sent to them apostles; every time there came to them an apostle with what their souls loved not, a part of them they did call liars and a part of them they slew.
+
+75 And they reckoned that there would be no disturbance; but they were blind and deaf! and then ​God turned again towards them: and then many amongst them were blind and deaf! but God saw what they did.
+
+They misbelieve who say, ‘Verily, God is the Messiah the son of Mary;’ but the Messiah said, ‘O children of Israel! worship God, my Lord and your Lord;’ verily, he who associates aught with God, God hath forbidden him Paradise, and his resort is the Fire, and the unjust shall have none to help them.
+
+They misbelieve who say, ‘Verily, God is the third of three;’ for there is no God but one, and if they do not desist from what they say, there shall touch those who misbelieve amongst them grievous woe.
+
+Will they not turn again towards God and ask pardon of Him? for God is forgiving and merciful.
+
+The Messiah the son of Mary is only a prophet: prophets before him have passed away; and his mother was a confessor; they used both to eat food.—See how we explain to them the signs, yet see how they turn aside!
+
+80 Say, ‘Will ye serve, other than God, what can neither hurt you nor profit you?’ but God, He both hears and knows.
+
+Say, ‘O people of the Book! exceed not the truth in your religion, and follow not the lusts of a people who have erred before, and who lead many astray, and who go away from the level path.’
+
+Those of the children of Israel who disbelieved were cursed by the tongue of David and Jesus the son of Mary; that is because they rebelled and did transgress; they would not desist from the wrong they did; evil is that which they did. Thou wilt ​see many of them taking those who disbelieve for their patrons; evil is that which their souls have sent before them, for God’s wrath is on them, and in the torment shall they dwell for aye. But had they believed in God and the prophet, and what was revealed to him, they had not taken these for their patrons; but many of them are evildoers.
+
+[85] Thou wilt surely find that the strongest in enmity against those who believe are the Jews and the idolaters; and thou wilt find the nearest in love to those who believe to be those who say, ‘We are Christians;’ that is because there are amongst them priests and monks, and because they are not proud.
+
+And when they hear what has been revealed to the prophet, you will see their eyes gush with tears at what they recognise as truth therein; and they will say, ‘O our Lord! we believe, so write us down amongst the witnesses. Why should we not believe in God and the truth that is given to us, nor desire that our Lord should make us enter with the upright people?’
+
+Therefore has God rewarded them, for what they said, with gardens beneath which rivers flow, to dwell therein for aye; that is the reward of those who do good; but those who disbelieve and say our signs are lies, they are the fellows of hell.
+
+O ye who believe! forbid not the good things which God has made lawful for you, nor transgress; verily, God loves not the transgressors.
+
+90 But eat of what God has provided you lawfully of good things; and fear God, in whom ye believe.
+
+God will not catch you up for a casual word in your oaths, but He will catch you up for having ​what ye make deliberate oaths about; and the expiation thereof is to feed ten poor men with the middling food ye feed your families withal, or to clothe them, or to free a neck[12]; but he who has not the means, then let him fast three days. That is the expiation of your oaths, when ye have sworn to keep your oaths; thus does God explain to you His signs,—haply ye may be grateful.
+
+O ye who believe! verily, wine, and el mâisar[13], and statues[14], and divining (arrows) are only an abomination of Satan’s work; avoid them then that haply ye may prosper. Satan only desires to place enmity and hatred between you by wine and mâisar, and to turn you from the remembrance of God and from prayer; but will ye not desist, and obey God, and obey the apostles, and beware, for if ye turn back then know that our Apostle has only his message to preach?
+
+There is no crime in those who believe and do right, for having tasted food, when they fear God, and believe, and do what is right, and then fear Him, and believe, and then fear, and do good, for God loves those who do good.
+
+95 O ye who believe! God will try you with something of the game that your hands and your lances take, that God may know who fears Him in secret; and whoso transgresses after that, for him is grievous woe.
+
+O ye who believe! kill not game while ye are on ​pilgrimage. But he amongst you who kills it purposely, his compensation is the like of that which he has killed, in sheep—of which two equitable persons amongst you shall be judge—an offering brought to the Kaabah; or as an expiation, the food of poor persons, or an equivalent thereof in fasting, that he may taste the evil result of his deed. God pardons bygones; but whoso returns, God will take vengeance on him, for God is mighty and the avenger.
+
+Lawful for you is the game of the sea, and to eat thereof; a provision for you and for travellers; but forbidden you is the game of the land while ye are on pilgrimage; so fear God to whom ye shall be gathered.
+
+God has made the Kaabah, the sacred House, to be a station for men, and the sacred month, and the offering and its neck garland; this is that ye may know that God knows what is in the heavens and what is in the earth, and that God knows all things. Know that God is keen to punish, but that God is forgiving, merciful.
+
+The Apostle has only to preach his message, but God knows what ye show and what ye hide.
+
+100 Say, ‘The vile shall not be deemed equal with the good, although the abundance of the vile please thee.’ Fear God then, O ye who have minds! haply ye may prosper.
+
+O ye who believe! ask not about things which if they be shown to you will pain you; but if ye ask about them when the (whole) Qur′ân is revealed, they shall be shown to you. God pardons that, for God is forgiving and clement. People before you have asked about that, yet on the morrow did they disbelieve therein.
+
+ ​And God has not ordained any Ba′hîrah or Sâïbah, nor Wazîlah nor ′Hâmî[15], but those who misbelieve invent a lie against God, for most of them do not understand.
+
+And when it is said to them, ‘Come round to what God has revealed unto His Apostle,’ they say, ‘Enough for us is what we found our fathers agreed upon.’ What! though their fathers knew nothing and were not guided.
+
+O ye who believe! mind yourselves; he who errs can do you no hurt when ye are guided: unto God is your return altogether, and He will declare to you that which ye do not know.
+
+105 O ye who believe! let there be a testimony between you when any one of you is on the point of death—at the time he makes his will—two equitable persons from amongst you; or two others from some other folk, if ye be knocking about in the land, and the calamity of death befall you ; ye shall shut them both up after prayer, and they shall both swear by ​God, if ye doubt them, (saying), ‘We will not sell (our testimony) for a price, though it were to a relative, nor will we hide God's testimony, verily, then, we should be among sinners.’ But if it shall be lit upon that they too have deserved the imputation of sin, then let two others stand up in their place with those who think them deserving of the imputation, the nearest two in kin, and they shall both swear by God,‘ Indeed, our testimony is truer than the testimony of those two, and we have not transgressed, for then we should surely be of the unjust:’ thus is it easier for men to bear testimony according to the purport thereof, else must they fear lest an oath be given to rebut their own oath; but let them fear God and listen, for God guides not the people who do ill.
+
+On the day when God shall assemble the apostles and shall say, ‘How were ye answered?’ they will say, ‘We have no knowledge; verily, thou art He who knoweth the unseen.’
+
+When God said, ‘O Jesus, son of Mary! remember my favours towards thee and towards thy mother, when I aided thee with the Holy Ghost, till thou didst speak to men in the cradle and when grown up.
+
+110 ‘And when I taught thee the Book and wisdom and the law and the gospel; when thou didst create of clay, as it were, the likeness of a bird, by my power, and didst blow thereon, it became a bird; and thou didst heal the blind from birth, and the leprous by my permission; and when thou didst bring forth the dead by my permission; and when I did ward off the children of Israel from thee, when thou didst come to them with manifest signs, and those who ​misbelieved amongst them said, “This is naught but obvious magic.”
+
+‘And when I inspired the apostles that they should believe in him and in my Apostle, they said, “We believe; do thou bear witness that we are resigned.”’
+
+When the apostles said, ‘O Jesus, son of Mary! is thy Lord able to send down to us a table from heaven?’ he said, ‘Fear God, if ye be believers;’ and they said, ‘We desire to eat therefrom that our hearts may be at rest, and that we may know that what thou hast told us is the truth, and that we may be thereby amongst the witnesses.’ Said Jesus the son of Mary, ‘O God, our Lord! send down to us a table from heaven to be to us as a festival,—to the first of us and to the last, and a sign from Thee,—and grant us provision, for Thou art the best of providers.”
+
+115 God said, ‘Verily, I am about to send it down to you; but whoso disbelieves amongst you after that, verily, I will torment him with the torment which I have not tormented any one with in all the worlds.’
+
+And when God said, ‘O Jesus, son of Mary! is it thou who didst say to men, take me and my mother for two gods, beside God?’ He said, ‘I celebrate Thy praise! what ails me that I should say what I have no right to? If I had said it, Thou wouldst have known it; Thou knowest what is in my soul, but I know not what is in Thy soul; verily, Thou art one who knoweth the unseen. I never told them save what Thou didst bid me,—“Worship God, my Lord and your Lord,” and I was a witness against them so long as I was amongst them; but when Thou didst take me away to thyself Thou wert the watcher over them, for Thou art witness over all. If ​Thou shouldst punish them, verily, they are Thy servants; if Thou shouldst forgive them, verily, Thou art the mighty and the wise. God said, ‘This is the day when their confession shall profit the confessors, for them are gardens beneath which rivers flow, to dwell therein for ever and for aye.’
+
+God is well pleased with them, and they well pleased with Him; that is the mighty happiness.
+
+120 God's is the kingdom of the heavens, and the earth, and all that is therein, and He is mighty over all.
+
+#### Footnotes
+
+[edit]
+
+- ↑ Mu’harram.
+
+- ↑ The Qurâish, who sent to meet Mohammed with 1400 men at ‘Hudâibîyeh to prevent him from approaching Mecca, A.H. 6.
+
+- ↑ Literally, ‘stones set up,’ Dolmens and the like, which are so common throughout Arabia.
+
+- ↑ By the game of mâisar, see p. 32.
+
+- ↑ Referring to the oath of fidelity which Mohammed's adherents took at ‘Akabah.
+
+- ↑ Various stories are told in explanation of this passage, but they are all obviously apocryphal, the angel Gabriel intervening to prevent some mischief either to the Apostle or his followers.
+
+- ↑ That is, the text foretelling the coming of Mohammed; see Introduction.
+
+- ↑ See note 2, p. 56.
+
+- ↑ The time before the Mohammedan dispensation is always so called.
+
+- ↑ I.e. to take his place.
+
+- ↑ The ancient Arabs always lit a beacon-fire as a proclamation of war, or a notice of the approach of an enemy.
+
+- ↑ I.e. from the yoke of captivity.
+
+- ↑ See note 4, p. 32.
+
+- ↑ This has been thought by strict Musselmans to exclude the game of chess. Sunnîs, however, play the game with plain pieces like drafts, though Persians and Indians are not so scrupulous.
+
+- ↑ These were the names given to certain animals which were marked and allowed to graze at liberty. Ba′hîrah was the name given to a camel which had had ten young ones; her ear was then slit and she was turned loose to feed. When she died her flesh was eaten by the men only, the women being forbidden to touch it. There were, however, cases in which any she-camel was so called and treated. Saibah signifies merely a camel turned loose, her being so turned out was generally in fulfilment of a vow. Wazîlah was a term applied to any cattle, including sheep and goats, and generally meant a beast who had brought forth a male and female at the seventh parturition. ′Hâmî was a stallion camel which, after begetting ten young ones, was turned loose. As all these customs were connected with the idolatrous superstitions of the pagan Arabs, and tended to keep alive the rites and beliefs of paganism, Mohammed forbade them, with other similar superstitions.
