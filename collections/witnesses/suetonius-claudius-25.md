@@ -1,0 +1,664 @@
+<!-- Fetched from https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html on 2026-10-26. -->
+Suetonius • Life of Claudius
+
+ Short URL for this page:
+ bit.ly/SuetClaX
+
+| | mail:
+ Bill Thayer |
+ Latine |
+ Help |
+ Up |
+ Home
+
+| | previous:
+
+ Caligula |
+
+ This webpage reproduces one of **
+ The Lives of the Twelve Caesars
+ by
+ C. Suetonius Tranquillus **
+ published in the Loeb Classical Library,
+ 1914
+
+ The text is in the public domain.
+
+ This page has been carefully proofread
+ and I believe it to be free of errors.
+ If you find a mistake though,
+ please let me know!
+
+ | next:
+
+ Nero
+
+## Suetonius, The Lives of the Caesars
+
+# p3 The Life of Claudius
+
+ 1 1 The father of Claudius Caesar, Drusus, who at first had the forename Decimus and later that of Nero, was born of Livia within three months after her marriage to Augustus⁠1 (for she was with child at the time) and there was a suspicion that he was begotten by his stepfather in adulterous intercourse. Certain it is that this verse at once became current:
+
+ "In three months' time come children to the great."⁠2
+
+ 2 This Drusus, while holding the offices of quaestor and praetor, was in charge of the war in Raetia and later of that in Germany. He was the first of Roman generals to sail the northern Ocean, and beyond the Rhine with prodigious labour he constructed the huge canals which to this very day are called by his name.⁠3 Even after he had defeated the enemy in many battles and driven them far into the wilds of the interior, he did not cease his pursuit until the apparition of a barbarian woman of greater than p5 human size, speaking in the Latin tongue, forbade him to push his victory further. 3 For these exploits he received the honour of an ovation⁠4 with the triumphal regalia; and immediately after his praetor­ship he became consul and resumed his campaign, but died in his summer camp, which for that reason was given the name of "Accursed." The body was carried by the leading men of the free towns and colonies to Rome,⁠5 where it was met and received by the decuries of scribes,⁠6 and buried in the campus Martius. But the army reared a monument in his honour, about which the soldiers should make a ceremonial run⁠7 each year thereafter on a stated day, which the cities of Gaul were to observe with prayers and sacrifices. The senate, in addition to many other honours, voted him a marble arch adorned with trophies on the Appian Way, and the surname Germanicus for himself and his descendants. 4 It is the general belief that he was as eager for glory as he was democratic⁠8 by nature; for in addition to victories over the enemy he greatly desired to win the "noble trophies,"⁠9 often pursuing the leaders of the Germans all over the field at great personal risk; and he made no secret of his intention of restoring the old-time form of government, whenever he should have the power. 5 ºIt is because of this, I think, that some have made bold to write that he was an object of suspicion to Augustus; that the emperor recalled him from his province, and when he did not obey at once, took him off by poison. This p7 I have mentioned, rather not to pass it by, than that I think it true or even probable; for as a matter of fact Augustus loved him so dearly while he lived that he always named him joint-heir along with his sons, as he once declared in the senate; and when he was dead, he eulogized him warmly before the people, praying the gods to make his Caesars⁠10 like Drusus, and to grant him, when his time came, as glorious a death as they had given that hero. And not content with carving a laudatory inscription on his tomb in verses of his own composition, Augustus also wrote a memoir of his life in prose.
+
+ 6 Drusus had several children by the younger Antonia, but was survived by only three, Germanicus, Livilla, and Claudius.
+
+ 2 1 Claudius was born at Lugdunum on the Kalends of Augustus in the consul­ship of Iullus Antonius and Fabius Africanus, the very day when an altar was first dedicated to Augustus in that town,⁠11 and he received the name of Tiberius Claudius Drusus. Later, on the adoption of his elder brother into the Julian family, he took the surname Germanicus. He lost his father when he was still an infant, and throughout almost the whole course of his childhood and youth he suffered so severely from various obstinate disorders that the vigour of both his mind and his body was dulled, and even when he reached the proper age he was not thought capable of any public or private business. 2 For a long time, even after he reached the age of independence,⁠12 he was in a state of pupillage and under a guardian, of whom he himself makes complaint in a book of his, saying that he was a barbarian and a former chief of muleteers, put in charge of him for the express p9 purpose of punishing him with all possible severity for any cause whatever. It was also because of his weak health that contrary to all precedent he wore a cloak when he presided at the gladiatorial games which he and his brother gave in honour of their father; and on the day when he assumed the gown of manhood he was taken in a litter to the Capitol about midnight without the usual escort.13
+
+ 3 1 Yet he gave no slight attention to liberal studies from his earliest youth, and even published frequent specimens of his attainments in each line. But even so he could not attain any public position or inspire more favourable hope of his future.
+
+ 2 His mother Antonia often called him "a monster of a man, not finished but merely begun by Dame Nature"; and if she accused anyone of dulness, she used to say that he was "a bigger fool than her son Claudius." His grandmother Augusta always treated him with the utmost contempt, very rarely speaking to him; and when she admonished him, she did so in short, harsh letters, or through messengers. When his sister Livilla heard that he would one day be emperor, she openly and loudly prayed that the Roman people might be spared so cruel and undeserved a fortune. Finally to make it clearer what opinions, favourable and otherwise, his great uncle Augustus had of him, I have appended extracts from his own letters:
+
+ 4 1 "I have talked with Tiberius,⁠14 my dear Livia, as you requested, with regard to what is to be done with your grandson Tiberius⁠15 at the games of Mars.⁠16 Now we are both agreed that we must decide once for all what plan we are to adopt in his case. For if p11 he be sound and so to say complete,⁠17 what reason have we for doubting that he ought to be advanced through the same grades and steps through which his brother has been advanced? 2 But if we realize that he is wanting and defective in soundness of body and mind, we must not furnish the means of ridiculing both him and us to a public which is wont to scoff at and deride such things. Surely we shall always be in a stew, if we deliberate about each separate occasion and do not make up our minds in advance whether we think he can hold public offices or not. 3 However, as to the matters about which you ask my present advice, I do not object to his having charge of the banquet of the priests at the games of Mars, if he will allow himself to be advised by his kinsman the son of Silvanus, so as not to do anything to make himself conspicuous or ridiculous. That he should view the games in the Circus from the Imperial box⁠18 does not meet with my approval; for he will be conspicuous if exposed to full view in front of the auditorium. I am opposed to his going to the Alban Mount or being in Rome on the days of the Latin festival; for why should he not be made prefect of the city, if he is able to attend his brother to the Mount? 4 You have my views, my dear Livia, to wit that I desire that something be decided once for all about the whole matter, to save us from constantly wavering between hope and fear. Moreover, you may, if you wish, give this part of my letter to our kinswoman Antonia also to read." Again in another letter:
+
+ 5 "I certainly shall invite the young Tiberius to dinner every day during your absence, to keep him p13 from dining alone with his friends Sulpicius and Athenodorus. I do wish that he would choose more carefully and in a less scatter-brained fashion someone to imitate in his movements, bearing, and gait. The poor fellow is unlucky; for in important matters, where his mind does not wander, the nobility of his character is apparent enough." Also in a third letter:
+
+ 6 "Confound me, dear Livia, if I am not surprised that your grandson Tiberius could please me with his declaiming. How in the world anyone who is so unclear in his conversation can speak with clearness and propriety when he declaims, is more than I can see."
+
+ 7 There is no doubt at all what Augustus later decided, and that he left him invested with no office other than the augural priesthood, not even naming him as one of his heirs, save in the third degree⁠19 and to a sixth part of his estate, among those who were all but strangers; while the legacy that he left him was not more than eight hundred thousand sesterces.
+
+ 5 1 His paternal uncle Tiberius gave him the consular regalia, when he asked for office; but when he urgently requested the actual position, Tiberius merely replied by a note in these words: "I have sent you forty gold-pieces for the Saturnalia and the Sigillaria."⁠20 Then at last Claudius abandoned all hope of advancement and gave himself up to idleness, living in obscurity now in his house and gardens in the suburbs, and sometimes at a villa in Campania; moreover from his intimacy with the lowest of men he incurred the reproach of drunkenness and gambling, in addition to his former reputation for dulness. p15 Yet all this time, despite his conduct, he never lacked attention from individuals or respect from the public.
+
+ 6 1 The equestrian order twice chose him as their patron, to head a deputation on their behalf: once when they asked from the consuls the privilege of carrying the body of Augustus to Rome on their shoulders, and again when they offered them their congratulations on the downfall of Sejanus. They even used to rise when he appeared at the public shows and put off their cloaks. 2 The senate too voted that he be made a special member of the priests of Augustus,⁠21 who were usually chosen by lot; when he later lost his house by fire, that it should be rebuilt at the public expense, and that he should have the honour of giving his opinion among the consulars. This second decree was however repealed, since Tiberius urged Claudius's infirmity as a reason, and promised that he would make the loss⁠22 good through his own generosity. Yet when Tiberius died, he named Claudius only among his heirs in the third degree, to a third part of his estate, although he gave him in addition a legacy of about two million sesterces, and expressly commended him besides to the armies and to the senate and people of Rome with the rest of his kinsfolk.
+
+ 7 1 It was only under his nephew Gaius, who in the early part of his reign tried to gain popularity by every device, that he at last began his official career, holding the consul­ship as his colleague for two months; and it chanced that as he entered the Forum for the first time with the fasces, an eagle that was flying by lit upon his shoulder. He was p17 also allotted a second consul­ship, to be held four years later,⁠23 and several times he presided at the shows in place of Gaius, and was greeted by the people now with "Success to the emperor's uncle!" and now with "All hail to the brother of Germanicus!"
+
+ 8 1 But all this did not save him from constant insults; for if he came to dinner a little after the appointed time, he took his place with difficulty and only after making the round of the dining-room. Whenever he went to sleep after dinner, which was a habit of his, he was pelted with the stones of olives and dates, and sometimes he was awakened by the jesters with a whip or cane, in pretended sport. They used also to put slippers on his hands as he lay snoring, so that when he was suddenly aroused he might rub his face with them.
+
+ 9 1 But he was exposed also to actual dangers. First in his very consul­ship, when he was all but deposed, because he had been somewhat slow in contracting for and setting up the statues of Nero and Drusus, the emperor's brothers. Afterwards he was continually harassed by all kinds of accusations, brought against him by strangers or even by the members of his household. Finally, when the conspiracy of Lepidus and Gaetulicus⁠24 was detected and he was sent to Germany as one of the envoys to congratulate the emperor, he was really in peril of his life, since Gaius raged and fumed because his uncle of all men had been sent to him, as if to a child in need of a guardian. So great, indeed, was his wrath that some have written that Claudius was even thrown into the river⁠25 clothes and all, just as he had come. 2 Moreover, from that time on he always gave p19 his opinion in the senate among the consulars, having the question put to him after all the rest by way of humiliation. A case involving the forgery of a will was even admitted, in which Claudius himself was one of the signers. At last he was forced to pay eight million sesterces to enter a new priesthood,⁠26 which reduced him to such straitened circumstances that he was unable to meet the obligation incurred to the treasury;⁠27 whereupon by edict of the prefects⁠28 his property was advertised for sale to meet the deficiency,⁠29 in accordance with the law regulating confiscations.
+
+ 10 1 Having spent the greater part of his life under these and like circumstances, he became emperor in his fiftieth year by a remarkable freak of fortune. When the assassins of Gaius shut out the crowd under pretence that the emperor wished to be alone, Claudius was ousted with the rest and withdrew to an apartment called the Hermaeum; and a little later, in great terror at the news of the murder, he stole away to a balcony hard by and hid among the curtains which hung before the door. 2 As he cowered there, a common soldier, who was prowling about at random, saw his feet, intending to ask who he was, pulled him out and recognized him; and when Claudius fell at his feet in terror, he hailed him as emperor. Then he took him to the rest of p21 his comrades, who were as yet in a condition of uncertainty and purposeless rage. These placed him in a litter, took turns in carrying it, since his own bearers had made off, and bore him to the Camp in a state of despair and terror, while the throng that met him pitied him, as an innocent man who was being hurried off to execution. 3 Received within the rampart, he spent the night among the sentries with much less hope than confidence;⁠30 for the consuls with the senate and the city cohorts had taken possession of the Forum and the Capitol, resolved on maintaining the public liberty.⁠31 When he too was summoned to the House by the tribunes of the commons, to give his advice on the situation, he sent word that "he was detained by force and compulsion." 4 But the next day, since the senate was dilatory in putting through its plans because of the tiresome bickering of those who held divergent views, while the populace, who stood about the hall, called for one ruler and expressly named Claudius, he allowed the armed assembly of the soldiers to swear allegiance to him, and promised each man fifteen thousand sesterces; being the first of the Caesars who resorted to bribery to secure the fidelity of the troops.
+
+ 11 1 As soon as his power was firmly established, he considered it of foremost importance to obliterate the memory of the two days when men had thought of changing the form of government. Accordingly he made a decree that all that had been done and said during that period should be pardoned and forever forgotten; he kept his word too, save only that a few of the tribunes and centurions who had conspired against Gaius were put to death, both to make an example of them and because he knew p23 that they had also demanded his own death. 2 Then turning to the duties of family loyalty, he adopted as his most sacred and frequent oath "By Augustus." He had divine honours voted his grandmother Livia and a chariot drawn by elephants in the procession at the Circus,⁠32 like that of Augustus; also public offerings to the shades of his parents and in addition annual games in the Circus on his father's birthday and for his mother a carriage to bear her image through the Circus and the surname of Augusta, which she had declined during her lifetime. In memory of his brother,⁠33 whom he took every opportunity of honouring, he brought out a Greek comedy in the contest at Naples⁠34 and awarded it the crown in accordance with the decision of the judges. 3 He did not leave even Mark Antony unhonoured or without grateful mention, declaring once in a proclamation that he requested the more earnestly that the birthday of his father Drusus be celebrated because it was the same as that of his grandfather Antony. He completed the marble arch to Tiberius near Pompey's theatre, which had been voted some time before by the senate, but left unfinished. Even in the case of Gaius, while he annulled all his acts, yet he would not allow the day of his death to be added to the festivals, although it was also the beginning of his own reign.
+
+ 12 1 But in adding to his own dignity he was modest and unassuming, refraining from taking the forename Imperator,⁠35 refusing excessive honours, and passing over the betrothal of his daughter and the birthday of a grandson in silence and with merely private ceremonies. He recalled no one from exile except with the approval of the senate. He obtained from the p25 members as a favour the privilege of bringing into the House with him the prefect of the praetorian guard and the tribunes of the soldiers, and the ratification of the judicial acts of his agents in the provinces. 2 He asked the consuls for permission to hold fairs on his private estates. He often appeared as one of the advisers at cases tried before the magistrates; and when they gave games, he also arose with the rest of the audience and showed his respect by acclamations and applause. When the tribunes of the commons appeared before him as he sat upon the tribunal, he apologised to them because for lack of room he could not hear them unless they stood up.
+
+ 3 By such conduct he won so much love and devotion in a short time, that when it was reported that he had been waylaid and killed on a journey to Ostia, the people were horror stricken and with dreadful execrations continued to assail the soldiers as traitors, and the senate as murderers, until finally one or two men, and later several, were brought forward upon the rostra by the magistrates and assured the people that Claudius was safe and on his way to the city.
+
+ 13 1 Yet he did not remain throughout without experience of treachery, but he was attacked by individuals, by a conspiracy, and finally by a civil war. A man of the commons was caught near his bed-chamber in the middle of the night, dagger in hand; and two members of the equestrian order were found lying in wait for him in public places, one ready to attack him with a sword-cane as he came out of the theatre, the other with a hunting knife as he was sacrifi­cing in the temple of Mars. 2 Asinius Gallus and Statilius Corvinus, grandsons p27 of the orators Pollio and Messala, conspired to overthrow him, aided by a number of his own freedmen and slaves. The civil war was set on foot by Furius Camillus Scribonianus, governor of Dalmatia; but his rebellion was put down within five days, since the legions which had changed their allegiance were turned from their purpose by superstitious fear; for when the order was given to march to their new commander, by some providential chance the eagles could not be adorned⁠36 nor the standards pulled up and moved.37
+
+ 14 1 He held four consul­ships in addition to his original one. Of these the first two were in successive years, while the other two followed at intervals of four years each, the last for six months, the others for two; and in his third he was substituted for one of the consuls who had died, a thing which was without precedent in the case of an emperor. He administered justice most conscientiously both as consul and when out of office, even on his own anniversaries and those of his family, and sometimes even on festivals of ancient date and days of ill-omen. He did not always follow the letter of the laws, but modified their severity or lenity in many cases according to his own notions of equity and justice; for he allowed a new trial to those who had lost their cases before private judges by demanding more than the law prescribed, while, overstepping the lawful penalty, he condemned to the wild beasts those who were convicted of especially heinous crimes.
+
+ 15 1 But in hearing and deciding cases⁠38 he showed strange inconsistency of temper, for he was now careful and shrewd, sometimes hasty and inconsiderate, occasionally silly and like a crazy man. In revising p29 the lists of the divisions of jurors⁠39 he disqualified a man who had presented himself without mentioning that he was immune because of the number of his children,⁠40 on the ground that he had a passion for jury-duty. Another, who was challenged by his opponents about a suit of his own, said that it did not come before Caesar's tribunal, but the ordinary courts; whereupon Claudius compelled him at once to bring the case before him, saying that the man would show in a case affecting his own interests how just a juror he would be in the affairs of others. 2 When a woman refused to recognise her son, the evidence on both sides was conflicting, he forced her to admit the truth by ordering her to marry the young man. Whenever one party to a suit was absent, he was prone to decide in favour of the one who was present, without considering whether his opponent had failed to appear through his own fault or from a necessary cause.⁠41 On a man's being convicted of forgery, some one cried out that his hands ought to be cut off; whereupon Claudius insisted that an executioner be summoned at once with knife and block. In a case involving citizen­ship a fruitless dispute arose among the advocates as to whether the defendant ought to make his appearance in the toga⁠42 or in a Greek mantle, and the emperor, with the idea of showing absolute impartiality, made him change his garb several times, according as he was accused or defended. 3 In one case he is credited with having rendered the following decision, which he had actually written out beforehand: "I decide in favour of those who have told the truth." By such acts as these he so discredited himself that he was held in general and open contempt. One man p31 in making excuses for a witness that the emperor had summoned from one of the provinces, said that he could not appear, but for a long time would give no reason; at last, after a long series of questions, he said: "He's dead; I think the excuse is a lawful one." Another in thanking the emperor for allowing him to defend his client added "After all, it is usual." I myself used to hear older men say that the pleaders took such advantage of his good-nature, that they would not only call him back when he left the tribunal, but would catch hold of the fringe of his robe, and sometimes of his foot, and thus detain him. 4 To prevent any surprise at this, I may add that a common Greek pettifogger let slip this remark in a hot debate: "You are both an old man and a fool." All the world knows that a Roman knight who was tried for improper conduct towards women, but on a false charge trumped up by unscrupulous enemies, seeing common strumpets called as witnesses against him and their testimony admitted, hurled the stylus and tablets which he held in his hand into the emperor's face with such force as to cut his cheek badly, at the same time loudly reviling his cruelty and stupidity.
+
+ 16 1 He also assumed the censor­ship, which had long been discontinued, ever since the term of Plancus and Paulus, but in this office too he was variable, and both his theory and his practice were inconsistent. In his review of the knights he left off a young man of evil character, whose father said that he was perfectly satisfied with him, without any public censure,⁠43 saying "He has a censor of his own." Another who was notorious for corruption and adultery he merely admonished to be more p33 restrained in his indulgence, or at any rate more circumspect, adding, "For why should I know what mistress you keep?" When he had removed the mark of censure affixed to one man's name, yielding to the entreaties of the latter's friends, he said: "But let the erasure be seen." 2 He not only struck from the list of jurors a man of high birth, a leading citizen of the province of Greece, because he did not know Latin, but even deprived him of the rights of citizen­ship; and he would not allow anyone to render an account of his life save in his own words, as well as he could, without the help of an advocate. And he degraded⁠44 many, some contrary to their expectation and on the novel charge that they had left Italy without consulting him and obtaining leave of absence; one man merely because he had been companion to a king in his province, citing the case of Rabirius Postumus, who in bygone days had been tried for treason because he had followed Ptolemy to Alexandria, to recover a loan. 3 When he attempted to degrade still more, he found them in most cases blameless; for owing to the great carelessness of his agents, but to his own greater shame, those whom he accused of celibacy, childlessness, or lack of means proved that they were married, or fathers, or well-to‑do. In fact, one man, who was charged with having stabbed himself, stripped off his clothing and showed a body without a scar. 4 Other noteworthy acts of his censor­ship were the following: he had a silver chariot of costly workman­ship, which was offered in the Sigillaria,⁠45 bought and cut to pieces in his presence; in one single day he made twenty proclamations, including these two: "As the yield of the vineyards is bounti­ful, the wine jars p35 should be well pitched"; and "Nothing is so effective a cure for snake-bite as the juice of the yew tree."
+
+ 17 1 He made but one campaign and that of little importance. When the senate voted him the triumphal regalia, thinking the honour beneath the imperial dignity and desiring the glory of a legitimate triumph, he chose Britain as the best place for gaining it, a land that had been attempted by no one since the Deified Julius and was just at that time in a state of rebellion because of the refusal to return certain deserters.⁠46 2 On the voyage thither from Ostia he was nearly cast away twice in furious north-westers, off Liguria and near the Stoechades islands. Therefore he made the journey from Massilia all the way to Gesoriacum by land, crossed from there, and without any battle or bloodshed received the submission of a part of the island, returned to Rome within six months after leaving the city, and celebrated a triumph of great splendour. 3 To witness the sight he allowed not only the governors of the provinces to come to Rome, but even some of the exiles; and among the tokens of his victory he set a naval crown on the gable of the Palace beside the civic crown, as a sign that he had crossed and, as it were, subdued the Ocean. His wife Messalina followed his chariot in a carriage, as did also those who had won the triumphal regalia in the same war; the rest marched on foot in purple-bordered togas, except Marcus Crassus Frugi, who rode a caparisoned horse and wore a tunic embroidered with palms, because he was receiving the honour for the second time.
+
+ 18 1 He always gave scrupulous attention to p37 the care of the city and the supply of grain. On the occasion of a stubborn fire in the Aemiliana⁠47 he remained in the Diribitorium⁠48 for two nights, and when a body of soldiers and of his own slaves could not give sufficient help, he summoned the commons from all parts of the city through the magistrates, and pla­cing bags full of money before them, urged them to the rescue, paying each man on the spot a suitable reward for his services. 2 When there was a scarcity of grain because of long-continued droughts, he was once stopped in the middle of the Forum by a mob and so pelted with abuse and at the same time with pieces of bread, that he was barely able to make his escape to the Palace by a back door; and after this experience he resorted to every possible means to bring grain to Rome, even in the winter season. To the merchants he held out the certainty of profit by assuming the expense of any loss that they might suffer from storms, and offered to those who would build merchant ships large bounties, adapted to the condition of each: 19 1 to a citizen exemption from the lex Papia Poppaea;⁠49 to a Latin⁠50 the rights of Roman citizen­ship; to women the privileges allowed the mothers of four children.⁠51 And all these provisions are in force to‑day.
+
+ 20 1 The public works which he completed were great and essential rather than numerous; they were in particular the following: an aqueduct begun by Gaius; also the outlet of Lake Fucinus and the harbour at Ostia, although in the case of the last two he p39 knew that Augustus had refused the former to the Marsians in spite of their frequent requests, and that the latter had often been thought of by the Deified Julius, but given up because of its difficulty. He brought to the city on stone arches the cool and abundant founts of the Claudian aqueduct, one of which is called Caeruleus and the other Curtius and Albudignus, and at the same time the spring of the new Anio, distributing them into many beauti­fully ornamented pools. 2 He made the attempt on the Fucine lake as much in the hope of gain as of glory, inasmuch as there were some who agreed to drain it at their own cost, provided the land that was uncovered be given to them. He finished the outlet, which was •three miles in length, partly by levelling and partly by tunnelling a mountain, a work of great difficulty and requiring eleven years, although he had thirty thousand men at work all the time without interruption. 3 He constructed the harbour at Ostia by building curving breakwaters on the right and left, while before the entrance he placed a mole in deep water. To give this mole a firmer foundation, he first sank the ship in which the great obelisk⁠52 had been brought from Egypt, and then securing it by piles, built upon it a very lofty tower after the model of the Pharos at Alexandria, to be lighted at night and guide the course of ships.
+
+ 21 1 He very often distributed largess to the people. He also gave several splendid shows, not merely the usual ones in the customary places, but some of a new kind and some revived from ancient times, and in places where no one had ever given p41 them before. He opened the games at the dedication of Pompey's theatre, which he had restored when it was damaged by a fire, from a raised seat in the orchestra, after first offering sacrifice at the temples⁠53 in the upper part of the auditorium and coming down through the tiers of seats while all sat in silence. 2 He also celebrated secular games,⁠54 alleging that they had been given too early by Augustus and not reserved for the regular time; although he himself writes in his own History that when they had been discontinued for a long time, Augustus restored them to their proper place after a very careful calculation of the intervals. Therefore the herald's proclamation was greeted with laughter, when he invited the people in the usual formula to games "which no one had ever seen or would ever see again"; for some were still living who had seen them before, and some actors who had appeared at the former performance appeared at that time as well. He often gave games in the Vatican Circus⁠55 also, at times with a beast-baiting between every five races. 3 But the Great Circus he adorned with barriers of marble and gilded goals,⁠56 whereas before they had been of tufa and wood, and assigned special seats to the senators, who had been in the habit of viewing the games with the rest of the people. In addition to the chariot races he exhibited the game called Troy and also panthers, which were hunted down by a squadron of the praetorian cavalry under the lead of the tribunes and the prefect himself; likewise Thessalian horsemen,º who drive wild bulls all over the arena, leaping upon them p43 when they are tired out and throwing them to the ground by the horns.
+
+ 4 He gave many gladiatorial shows and in many places: one in yearly celebration of his accession, in the Praetorian Camp without wild beasts and fine equipment, and one in the •Saepta of the regular and usual kind; another in the same place not in the regular list, short and lasting but a few days, to which he was the first to apply the name of sportula,⁠57 because before giving it for the first time he made proclamation that he invited the people "as it were to an extempore meal, hastily prepared." 5 Now there was no form of entertainment at which he was more familiar and free, even thrusting out his left hand,⁠58 as the commons did, and counting aloud on his fingers the gold pieces which were paid to the victors; and ever and anon he would address the audience, and invite and urge them to merriment, calling them "masters" from time to time, and interspersing feeble and far-fetched jokes. For example, when they called for Palumbus⁠59 he promised that they should have him, "if he could be caught." The following, however, was both exceedingly timely and salutary; when he had granted the wooden sword⁠60 to an essedarius,⁠61 for whose discharge four sons begged, and the act was received with loud and general applause, he at once circulated a note, pointing out to the people how greatly they ought to desire children, since they saw that they brought favour and protection even to a gladiator. 6 He gave representations in the Campus Martius of the storming and sacking of a town in the manner of real warfare, as well as of the surrender of the kings of the Britons, and p45 presided clad in a general's cloak. Even when he was on the point of letting out the water from Lake Fucinus he gave a sham sea-fight first. But when the combatants cried out: "Hail, emperor, they who are about to die salute thee,"⁠a he replied, "Or not,"⁠62 and after that all of them refused to fight, maintaining that they had been pardoned. Upon this he hesitated for some time about destroying them all with fire and sword, but at last leaping from his throne and running along the edge of the lake with his ridiculous tottering gait,⁠63 he induced them to fight, partly by threats and partly by promises. At this performance a Sicilian and a Rhodian fleet engaged, each numbering twelve triremes, and the signal was sounded on a horn by a silver Triton, which was raised from the middle of the lake by a mechanical device.
+
+ 22 1 Touching religious ceremonies and civil and military customs, as well as the condition of all classes at home and abroad, he corrected various abuses, revived some old customs or even established new ones. In admitting priests into the various colleges he never named anyone until he had first taken oath,⁠64 and he scrupulously observed the custom of having the praetor call an assembly and proclaim a holiday, whenever there was an earthquake within the city; as well as that of offering up a supplication whenever a bird of ill-omen was seen on the Capitol. This last he himself conducted in his capacity of chief priest, first reciting the form of words to the people from the rostra, after all mechanics and slaves had been ordered to withdraw.
+
+ 23 1 The season for holding court, formerly divided into a winter and a summer term, he made p47 continuous.⁠65 Jurisdiction in cases of trust, which it had been usual to assign each year and only to magistrates in the city, he delegated for all time and extended to the governors of the provinces. He annulled a clause added to the lex Papia Poppaea by Tiberius, implying that men of sixty could not beget children. 2 He made a law that guardians might be appointed for orphans by the consuls, contrary to the usual procedure, and that those who were banished from a province by its magistrates should also be debarred from the city and from Italy. He himself imposed upon some a new kind of punishment,⁠66 by forbidding them to go more than •three miles outside of the city.
+
+ When about to conduct business of special importance in the House, he took his seat between the two consuls or on the tribunes' bench. He reserved to himself the granting of permission to travel, which had formerly been requested of the senate.
+
+ 24 1 He gave the consular regalia even to the second grade of stewards.⁠67 If any refused senatorial rank,⁠68 he took from them that of knight also. Though he had declared at the beginning of his reign that he would choose no one as a senator who did not have a Roman citizen for a great-great‑grandfather, he gave the broad stripe even to a freedman's son, but only on condition that he should first be adopted by a Roman knight. Even then, fearful of criticism, he declared that the censor Appius Caecus, the ancient founder of his p49 family, had chosen the sons of freedmen into the senate; but he did not know that in the days of Appius and for some time afterwards the term libertini designated, not those who were themselves manumitted, but their freeborn sons. 2 He obliged the college of quaestors to give a gladiatorial show in place of paving the roads; then depriving them of their official duties at Ostia and in Gaul, he restored to them the charge of the treasury of Saturn,⁠69 which had in the meantime been administered by praetors, or by ex-praetors, as in our time.
+
+ 3 He gave the triumphal regalia to Silanus, his daughter's affianced husband, who was still a boy, and conferred them on older men so often and so readily, that a joint petition was circulated in the name of the legions,⁠70 praying that those emblems be given the consular governors at the same time with their armies, to prevent their seeking all sorts of pretexts for war. To Aulus Plautius he also granted an ovation, going out to meet him when he entered the city, and walking on his left as he went to the Capitol and returned again. He allowed Gabinius Secundus to assume the surname of Cauchius because of his conquest of the Cauchi, a German nation.
+
+ 25 1 He rearranged the military career of the knights, assigning a division of cavalry after a cohort, and next the tribunate of a legion. He also instituted a series of military positions and a kind of fictitious service, which is called "supernumerary" and could be performed *in absentia* and in name only. He even had the Fathers pass a decree forbidding soldiers to enter the houses of senators to pay their respects. He confiscated p51 the property of those freedmen who passed as Roman knights, and reduced to slavery again such as were ungrateful and a cause of complaint to their patrons, declaring to their advocates that he would not entertain a suit against their own freedmen.⁠71 2 When certain men were exposing their sick and worn out slaves on the Island of Aesculapius⁠72 because of the trouble of treating them, Claudius decreed that all such slaves were free, and that if they recovered, they should not return to the control of their master; but if anyone preferred to kill such a slave rather than to abandon him, he was liable to the charge of murder. He provided by an edict that travellers should not pass through the towns of Italy except on foot, or in a chair or litter. He stationed a cohort at Puteoli and one at Ostia, to guard against the danger of fires.
+
+ 3 He forbade men of foreign birth to use the Roman names so far as those of the clans⁠73 were concerned. Those who usurped the privileges of Roman citizen­ship he executed in the Esquiline field.⁠74 He restored to the senate the provinces of Achaia and Macedonia, which Tiberius had taken into his own charge. He deprived the Lycians of their independence because of deadly intestine feuds, and restored theirs to the Rhodians, since they had given up their former faults. He allowed the people of Ilium perpetual exemption from tribute, on the ground that they were the founders of the Roman race, reading an ancient letter of the senate and people of p53 Rome written in Greek to king Seleucus, in which they promised him their friendship and alliance only on condition that he should keep their kinsfolk of Ilium free from every burden. 4 Since the Jews constantly made disturbances at the instigation of Chrestus,⁠75 he expelled them from Rome. He allowed the envoys of the Germans to sit in the orchestra, led by their naïve self-confidence; for when they had been taken to the seats occupied by the common people and saw the Parthian and Armenian envoys sitting with the senate, they moved of their own accord to the same part of the theatre, protesting that their merits and rank were no whit inferior. 5 He utterly abolished the cruel and inhuman religion of the Druids among the Gauls, which under Augustus had merely been prohibited to Roman citizens; on the other hand he even attempted to transfer the Eleusinian rites from Attica to Rome, and had the temple of Venus Erycina in Sicily, which had fallen to ruin through age, restored at the expense of the treasury of the Roman people. He struck his treaties with foreign princes in the Forum, sacrifi­cing a pig⁠76 and reciting the ancient formula of the fetial priests.⁠77 But these and other acts, and in fact almost the whole conduct of his reign, were dictated not so much by his own judgment as that of his wives and freedmen, since he nearly always acted in accordance with their interests and desires.
+
+ 26 1 He was betrothed twice at an early age: to Aemilia Lepida, great-granddaughter of Augustus, p55 and to Livia Medullina, who also had the surname of Camilla and was descended from the ancient family of Camillus the dictator. He put away the former before their marriage, because her parents had offended Augustus; the latter was taken ill and died on the very day which had been set for the wedding. 2 He then married Plautia Urgulanilla, whose father had been honoured with a triumph, and later Aelia Paetina, daughter of an ex-consul. He divorced both these, Paetina for trivial offences, but Urgulanilla because of scandalous lewdness and the suspicion of murder. Then he married Valeria Messalina, daughter of his cousin Messala Barbatus. But when he learned that besides other shameful and wicked deeds she had actually married Gaius Silius, and that a formal contract had been signed in the presence of witnesses, he put her to death and declared before the assembled praetorian guard that inasmuch as his marriages did not turn out well, he would remain a widower, and if he did not keep his word, he would not refuse death at their hands. 3 Yet he could not refrain from at once planning another match, even with Paetina, whom he had formerly discarded, and with Lollia Paulina, who had been the wife of Gaius Caesar. But his affections were ensnared by the wiles of Agrippina, daughter of his brother Germanicus, aided by the right of exchanging kisses and the opportunities for endearments offered by their relation­ship; and at the next meeting of the senate he induced some of the members to propose that he be compelled to marry Agrippina, on the ground that it was for the interest of the State; also that others be allowed to contract similar marriages, which up to that time had been regarded as incestuous. And he p57 married her with hardly a single day's delay; but none were found to follow his example save a freedman and a chief centurion, whose marriage ceremony he himself attended with Agrippina.
+
+ 27 1 He had children by three of his wives: by Urgulanilla, Drusus and Claudia; by Paetina, Antonia; by Messalina, Octavia and a son, at first called Germanicus and later Britannicus. He lost Drusus just before he came to manhood, for he was strangled by a pear which he had thrown into the air in play and caught in his open mouth. A few days before this he had betrothed him to the daughter of Sejanus, which makes me wonder all the more that some say that Drusus was treacherously slain by Sejanus. Claudia was the offspring of his freedman Boter, and although she was born within five months after the divorce⁠78 and he had begun to rear her, yet he ordered her to be cast out naked at her mother's door and disowned. 2 He gave Antonia in marriage to Gnaeus Pompeius Magnus, and later to Faustus Sulla, both young men of high birth, and Octavia to his stepson Nero, after she had previously been betrothed to Silanus. Britannicus was born on the twenty-second day of his reign and in his second consul­ship.⁠79 When he was still very small, Claudius would often take him in his arms and commend him to the assembled soldiers, and to the people at the games, holding him in his lap or in his outstretched hands, and he would wish him happy auspices, joined by the applauding throng. Of his sons-in‑law he adopted Nero; Pompeius and Silanus he not only declined to adopt, but even put to death.
+
+ p59 28 1 Of his freedmen he had special regard for the eunuch Posides, whom he even presented with the headless spear⁠80 at his British triumph, along with those who had served as soldiers. He was equally fond of Felix, giving him the command of cohorts and of troops of horse, as well as of the province of Judaea; and he became the husband of three queens.⁠81 Also of Harpocras, to whom he granted the privilege of riding through the city in a litter and of giving public entertainments.⁠82 Still higher was his regard for Polybius, his literary adviser, who often walked between the two consuls. But most of all he was devoted to his secretary Narcissus and his treasurer Pallas, and he gladly allowed them to be honoured in addition by a decree of the senate, not only with immense gifts, but even with the insignia of quaestors and praetors. Besides this he permitted them to amass such wealth by plunder, that when he once complained of the low state of his funds, the witty answer was made that he would have enough and to spare, if he were taken into partner­ship by his two freedmen.
+
+ 29 1 Wholly under the control of these and of his wives, as I have said,⁠83 he played the part, not of a prince, but of a servant lavishing honours, the command of armies, pardons or punishments, according to the interests of each of them, or even their wish or whim; and that too for the most part in ignorance and blindly. Not to go into details about less important matters (such as revoking his grants, rescinding his decisions, substituting false letters patent, or even openly changing those which he had issued), he put to death his father-in‑law Appius Silanus and the two Julias, daughters of p61 Drusus and Germanicus, on an unsupported charge and giving them no opportunity for defence; also Gnaeus Pompeius, the husband of his elder daughter, and Lucius Silanus who was betrothed to his younger one. 2 Of these Pompey was stabbed in the embraces of a favourite youth, while Silanus was compelled to abdicate his praetor­ship four days before the Kalends of January and to take his own life at the beginning of the year, the very day of the marriage of Claudius and Agrippina. He inflicted the death penalty on thirty-five senators and more than three hundred Roman knights with such easy indifference, that when a centurion in reporting the death of an ex-consul said that his order had been carried out, he replied that he had given no order; but he nevertheless approved the act, since his freedmen declared that the soldiers had done their duty in hastening to avenge their emperor without instructions. 3 But it is beyond all belief, that at the marriage which Messalina had contracted with her paramour Silius he signed the contract for the dowry with his own hand, being induced to do so on the ground that the marriage was a feigned one, designed to avert and turn upon another a danger which was inferred from certain portents to threaten the emperor himself.
+
+ 30 1 He possessed majesty and dignity of appearance, but only when he was standing still or sitting, and especially when he was lying down; for he was tall but not slender, with an attractive face, becoming white hair, and a full neck. But when he walked, his weak knees gave way under him and he had many disagreeable traits both in his lighter moments and when he was engaged in business; his laughter was unseemly and his anger still more disgusting, p63 for he would foam at the mouth and trickle at the nose; he stammered besides and his head was very shaky at all times, but especially when he made the least exertion.
+
+ 31 1 Though previously his health was bad, it was excellent while he was emperor except for attacks of heartburn, which he said all but drove him to suicide.
+
+ 32 1 He gave frequent and grand dinner parties, as a rule in spacious places, where six hundred guests were often entertained at one time. He even gave a banquet close to the outlet of the Fucine Lake and was well-nigh drowned, when the water was let out with a rush and deluged the place. He always invited his own children to dinner along with the sons and daughters of distinguished men, having them sit at the arms⁠84 of the couches as they ate, after the old time custom.⁠85 When a guest was suspected of having stolen a golden bowl the day before, he invited him again the next day, but set before him an earthenware cup. He is even said to have thought of an edict allowing the privilege of breaking wind quietly or noisily at table, having learned of a man who ran some risk by restraining himself through modesty.
+
+ 33 1 He was eager for food and drink at all times and in all places. Once when he was holding court in the forum of Augustus and had caught the savour of a meal which was preparing for the Salii⁠86 in the temple of Mars hard by, he left the tribunal, went up where the priests were, and took his place at their table. He hardly ever left the dining-room until he was stuffed and soaked; then he went to sleep at once, lying on his back with his mouth open, p65 and a feather was put down his throat to relieve his stomach. 2 He slept but little at a time, for he was usually awake before midnight; but he would sometimes drop off in the daytime while holding court and could hardly be roused when the advocates raised their voices for the purpose. He was immoderate in his passion for women, but wholly free from unnatural vice.⁠b He was greatly devoted to gaming, even publishing a book on the art, and he actually used to play while driving, having the board so fitted to his carriage as to prevent his game from being disturbed.
+
+ 34 1 That he was of a cruel and bloodthirsty disposition was shown in matters great and small. He always exacted examination by torture and the punishment of parricides⁠87 at once and in his presence. When he was at Tibur and wished to see an execution in the ancient fashion,⁠88 no executioner could be found after the criminals were bound to the stake. Whereupon he sent to fetch one from the city and continued to wait for him until nightfall. At any gladiatorial show, either his own or another's, he gave orders that even those who fell accidentally should be slain, in particular the net-fighters,⁠89 so that he could watch their faces as they died. 2 When a pair of gladiators had fallen by mutually inflicted wounds, he at once had some little knives made from both their swords for his use.⁠90 He took such pleasure in the combats with wild beasts and of those who fought at noonday,⁠91 that he would go down to the arena at daybreak and after dismissing the people p67 for luncheon at midday, he would keep his seat and in addition to the appointed combatants, he would for trivial and hasty reasons match others, even of the carpenters, the assistants, and men of that class, if any automatic device, or pageant,⁠92 or anything else of the kind, had not worked well. He even forced one of his pages⁠93 to enter the arena just as he was, in his toga.
+
+ 35 1 But there was nothing for which he was so notorious as timidity and suspicion. Although in the early days of his reign, as we have said,⁠94 he made a display of simplicity, he never ventured to go to a banquet without being surrounded by guards with lances and having his soldiers wait upon him in place of the servants; and he never visited a man who was ill without having the patient's room examined beforehand and his pillows and bed-clothing felt over and shaken out. Afterwards he even subjected those who came to pay their morning calls to search, sparing none the strictest examination. 2 Indeed, it was not until late, and then reluctantly, that he gave up having women and young boys and girls grossly mishandled, and the cases for pens and styles taken from every man's attendant or scribe. When Camillus began his revolution, he felt sure that Claudius could be intimidated without resorting to war; and in fact when he ordered the emperor in an insulting, threatening, and impudent letter to give up his throne and betake himself to a life of privacy and retirement, Claudius called together the leading men and asked their advice about complying.
+
+ 36 1 He was so terror-stricken by unfounded reports of conspiracies that he had tried to abdicate. When, as I have mentioned before,⁠95 a man with a dagger was caught near him as he was sacrifi­cing, he p69 summoned the senate in haste by criers and loudly and tearfully bewailed his lot, saying that there was no safety for him anywhere; and for a long time he would not appear in public. His ardent love for Messalina too was cooled, not so much by her unseemly and insulting conduct, as through fear of danger, since he believed that her paramour Silius aspired to the throne. On that occasion he made a shameful and cowardly flight to the camp,⁠96 doing nothing all the way but ask whether his throne was secure.
+
+ 37 1 No suspicion was too trivial, nor the inspirer of it too insignificant, to drive him on to precaution and vengeance, once a slight uneasiness entered his mind. One of two parties to a suit, when he made his morning call, took Claudius aside, and said that he had dreamed that he was murdered by someone; then a little later pretending to recognize the assassin, he pointed out his opponent, as he was handing in his petition. The latter was immediately seized, as if caught red-handed, and hurried off to execution. 2 It was in a similar way, they say, that Appius Silanus met his downfall. When Messalina and Narcissus had put their heads together to destroy him, they agreed on their parts and the latter rushed into his patron's bed-chamber before daybreak in pretended consternation, declaring that he had dreamed that Appius had made an attack on the emperor. Then Messalina, with assumed surprise, declared that she had had the same dream for several successive nights. A little later, as had been arranged, Appius, who had received orders the day before to come at that time, was reported to be forcing his way in, and as if were proof positive p71 of the truth of the dream, his immediate accusation and death were ordered. And Claudius did not hesitate to recount the whole affair to the senate next day and to thank the freedman⁠97 for watching over his emperor's safety even in his sleep.
+
+ 38 1 He was conscious of his tendency to wrath and resentment and excused both in an edict; he also drew a distinction between them, promising that the former would be short and harmless and the latter not without cause. After sharply rebuking the people of Ostia, because they had sent no boats to meet him when he entered the Tiber, and in such bitter terms that he wrote that they had reduced him to the rank of a commoner, he suddenly forgave them and all but apologised. 2 He repulsed with his own hand men who approached him in public at unseasonable times. He also banished⁠98 a quaestor's clerk without a hearing, as well as a senator of praetorian rank, although they were blameless: the former for going too far in pleading a suit against him before he became emperor; the latter, because, when aedile, he had fined the tenants of Claudius's estates for violating the law forbidding the selling of cooked victuals, and had whipped his bailiff when he remonstrated. And with the same motive he took from the aediles the regulation of the cook-shops.99
+
+ 3 He did not even keep quiet about his own stupidity, but in certain brief speeches he declared that he had purposely feigned it under Gaius, because otherwise he could not have escaped alive and attained his present station. But he convinced no one, and p73 within a short time a book was published, the title of which was "The Elevation of Fools" and its thesis, that no one feigned folly.
+
+ 39 1 Among other things men have marvelled at his absent-mindedness and blindness, or to use the Greek terms, his μετεωρία and ἀβλεψία. When he had put Messalina to death, he asked shortly after taking his place at the table why the empress did not come. He caused many of those whom he had condemned to death to be summoned the very next day to consult with him or game with him, and sent a messenger to upbraid them for sleepy-heads when they delayed to appear. 2 When he was planning his unlawful marriage with Agrippina, in every speech that he made he constantly called her his daughter and nursling, born and brought up in his arms. Just before his adoption of Nero, as if it were not bad enough to adopt a stepson when he had a grown-up son of his own, he publicly declared more than once that no one had ever been taken into the Claudian family by adoption.
+
+ 40 1 In short, he often showed such heedlessness in word and act that one would suppose that he did not know or care to whom, with whom, when, or where he was speaking. When a debate was going on about the butchers and vintners, he cried out in the house: "Now, pray, who can live without a snack," and then went on to describe the abundance of the old taverns to whom he himself used to go for wine in earlier days. 2 He gave us one of his reasons for supporting a candidate for the quaestor­ship, that the man's father had once given him cold water when he was ill and needed it. Once when a witness had been brought before the senate, he said: "This p75 woman was my mother's freedwoman and tire-woman, but she always regarded me as her patron; I mention this because there are still some in my household now who do not look on me as patron." 3 When the people of Ostia made a public petition to him, he flew into a rage on the very tribunal and bawled out that he had no reason for obliging them; that he was surely free if anyone was. In fact every day, and almost every hour and minute, he would make such remarks as these; "What! do you take me for a Telegenius?"⁠100 "Scold me, but hands off!" and many others of the same kind which would be unbecoming even in private citizens, not to mention a prince who lacked neither eloquence nor culture, but on the contrary constantly devoted himself to liberal pursuits.
+
+ 41 1 He began to write a history in his youth with the encouragement of Titus Livius⁠101 and the direct help of Sulpicius Flavius. But when he gave his first reading to a large audience, he had difficulty in finishing, since he more than once threw cold water on his own performance. For at the beginning of the reading the breaking down of several benches by a fat man raised a laugh, and even after the disturbance was quieted, Claudius could not keep from recalling the incident and renewing his guffaws. 2 Even while he was emperor he wrote a good deal and gave constant recitals through a professional reader.⁠102 He began his history with the death of the dictator Caesar, but passed to a later period and took a fresh start at the end of the civil war, realising that he was not allowed to give a frank or true account of the earlier times, since he was often taken to task both by his mother and his grandmother.103 p77 He left two books of the earlier history, but forty-one of the later. 3 He also composed an autobiography in eight books, lacking rather in good taste than in style, as well as a "Defence of Cicero against the Writings of Asinius Gallus," a work of no little learning. Besides this he invented three new letters and added them to the alphabet, maintaining that they were greatly needed;⁠104 he published a book on their theory when he was still in private life, and when he became emperor had no difficulty in bringing about their general use. These characters may still be seen in numerous books, in the daily gazette,⁠105 and in inscriptions on public buildings.
+
+ 42 1 He gave no less attention to Greek studies, taking every occasion to declare his regard for that language and its superiority. To a foreigner who held forth both in Greek and in Latin he said: "Since you are ready with both our tongues"; and in commending Achaia to the senators he declared that it was a province dear to him through the association of kindred studies; while he often replied to Greek envoys in the senate in a set speech.⁠106 Indeed he quoted many Homeric lines from the tribunal, and whenever he had punished an enemy or a conspirator, he commonly gave the tribune of the guard⁠107 this verse when he asked for the usual watchword:
+
+| |
+
+ "Ward off stoutly the man whosoever is first to assail you."⁠108
+
+ 2 At last he even wrote historical works in Greek, twenty books of Etruscan History and eight of Carthaginian. Because of these works there was p79 added to the old Museum at Alexandria a new one called after his name, and it was provided that in the one his Etruscan History should be read each year from beginning to end, and in the other his Carthaginian, by various readers in turn, in the manner of public recitations.
+
+ 43 1 Towards the end of his life he had shown some plain signs of repentance for his marriage with Agrippina and his adoption of Nero; for when his freedmen expressed their approval of a trial in which he had the day before condemned a woman for adultery, he declared that it had been his destiny also to have wives who were all unchaste, but not unpunished; and shortly afterwards meeting Britannicus, he hugged him close and urged him to grow up and receive from his father an account of all that he had done, adding in Greek, "He who dealt the wound will heal it."⁠109 When he expressed his intention of giving Britannicus the gown of manhood, since his stature justified it though he was still young and immature, he added: "That the Roman people may at last have a genuine Caesar."110
+
+ 44 1 Not long afterwards he also made his will and sealed it with the seals of all the magistrates. But before he could go any farther, he was cut short by Agrippina, who was being accused besides of many other crimes both by her own conscience and by informers.
+
+ 2 That Claudius was poisoned is the general belief, but when it was done and by whom is disputed. Some say that it was his taster, the eunuch Halotus, as he was banqueting on the Citadel⁠111 with the priests; p81 others that at a family dinner Agrippina served the drug to him with her own hand in mushrooms, a dish of which he was extravagantly fond. Reports also differ as to what followed. 3 Many say that as soon as he swallowed the poison he became speechless, and after suffering excruciating pain all night, died just before dawn. Some say that he first fell into a stupor, then vomited up the whole contents of his overloaded stomach, and was given a second dose, perhaps in a gruel, under pretence that he must be refreshed with food after his exhaustion, or administered in a syringe, as if he were suffering from a surfeit and required relief by that form of evacuation as well.
+
+ 45 1 His death was kept quiet until all the arrangements were made about the succession. Accordingly vows were offered for his safety, as if he were still ill, and the farce was kept up by bringing in comic actors, under pretence that he had asked to be entertained in that way. He died on the third day before the Ides of October in the consul­ship of Asinius Marcellus and Acilius Aviola, in the sixty-fourth year of his age and the fourteenth of his reign. He was buried with regal pomp and enrolled among the gods, an honour neglected and finally annulled by Nero, but later restored to him by Vespasian.
+
+ 46 1 The principal omens of his death were the following: the rise of a long-haired star, commonly called a comet; the striking of his father Drusus's tomb by lightning; and the fact that many magistrates of all ranks had died that same year. There are besides some indications that he himself was not unaware of his approaching end, and that he made no secret p83 of it;º for when he was appointing the consuls, he made no appointment beyond the month when he died, and on his last appearance in the senate, after earnestly exhorting his children to harmony, he begged the members to watch over the tender years of both; and in his last sitting on the tribunal he declared more than once that he had reached the end of a mortal career, although all who heard him prayed that the omen might be averted.112
+
+## The Editor's Notes:
+
+ 1 See *Aug.* lxii.2.
+
+❦
+
+ 2 Literally, "the blest," those on whom fortune smiles.
+
+❦
+
+ 3 The fossae Drusinae, two miles long, connecting the Rhine with the Yssel, to furnish a passage to the North Sea.
+
+ Thayer's Note: See also Tacitus, *Ann.* II.8. The canal has not been located; see the discussion at Livius.
+
+❦
+
+ 4 See *Aug.* xxii.
+
+❦
+
+ 5 *Cf.* *Tib.* vii.3.
+
+❦
+
+ 6 The reference is probably to the scribae quaestorii, the quaestor's clerks, who were the most important of the attendants upon the magistrates. They formed a guild composed of six decuriae, or divisions of ten, presided over by six officers called sex primi curatorum.
+
+❦
+
+ 7 A decursus or decursio. Dio, 56.42, describes the one about the funeral pyre of Augustus. After running around it in full armour, the soldiers cast into the fire the military prizes which they had received from the emperor; *cf.* *Jul.* lxxxiv.4.
+
+❦
+
+ 8 See note on *Tib.* xxvi.1.
+
+❦
+
+ 9 The spolia opima were the armour of the leader of the enemy, taken from him in hand-to‑hand combat by a Roman general.
+
+❦
+
+ 10 C. and L. Caesar: see *Tib.* xxiii and Index.
+
+❦
+
+ 11 That is, on the anniversary of the dedication, which was in 12 B.C.
+
+❦
+
+ 12 That is, the age at which one was ordinarily freed from tutelage. The usual formula is in suam tutelam venire, Cic. *De Orat.* I.39.180.
+
+❦
+
+ 13 Of relatives and friends.
+
+❦
+
+ 14 The future emperor.
+
+❦
+
+ 15 Claudius.
+
+❦
+
+ 16 Celebrated by Augustus in 12 A.D. in honour of Mars Ultor; *cf.* *Aug.* xxix.1 and 2.
+
+❦
+
+ 17 The two Greek words, ἄρτιος and ὁλόκληρος, mean "complete," "perfect of one's kind;" the meaning therefore is "if he have his five senses."
+
+❦
+
+ 18 See note on *Aug.* xlv.1.
+
+❦
+
+ 19 See note on *Jul.* lxxxiii.2; the heirs in the third degree had little or no prospect of receiving their inheritance.
+
+❦
+
+ 20 December 2 and 22, an extension of the Saturnalia, when it was customary to make presents of little images of various kinds (sigilla); also the name of a quarter or street in Rome, see chap. xvi.4; *Nero*, xxviii.2.
+
+❦
+
+ 21 Founded by Tiberius for the worship of the Deified Augustus.
+
+❦
+
+ 22 Of his house.
+
+❦
+
+ 23 Gaius appointed a number of consuls at once, who drew lots for the year when they were to hold the office.
+
+❦
+
+ 24 See *Calig.* viii.1 and xxiv.3.
+
+❦
+
+ 25 The Rhine.
+
+❦
+
+ 26 See *Calig.* xxii.3.
+
+❦
+
+ 27 He had borrowed money from the public treasury for his entrance fee into the new priesthood, and pledged his estates as security.
+
+❦
+
+ 28 That is, the prefects of the treasury, chosen from the praetors and ex-praetors (see *Aug.* xxxvi). Claudius later restored the charge of the treasury to the quaestors (see chap. xxiv.2).
+
+❦
+
+ 29 in vacuum; the meaning in uncertain. It perhaps means that the advertisement was merely a matter of form, though none the less humiliating.
+
+❦
+
+ 30 "Hope" of becoming emperor; "confidence" that he had escaped death.
+
+❦
+
+ 31 By restoring the republic.
+
+❦
+
+ 32 For carrying her image; see *Calig.* xv.1 and *cf.* *Tib.* li.2.
+
+❦
+
+ 33 Germanicus.
+
+❦
+
+ 34 See *Aug.* xcviii.5. The comedy was doubtless written by Germanicus; see *Calig.* iii.2.
+
+❦
+
+ 35 See *Jul.* lxxvi.1.
+
+❦
+
+ 36 With garlands and perfumes; *cf.* note on *Tib.* xlviii.2.
+
+❦
+
+ 37 See note on *Jul.* lxii. It was considered a bad omen if it was difficult to pull the standards from the ground.
+
+❦
+
+ 38 Before his own tribunal.
+
+❦
+
+ 39 More literally "the decuries for court duty," to distinguish them from the decuries of knights, scribes, etc.
+
+❦
+
+ 40 That is, he enjoyed the privileges of the ius trium liberorum, one of which was freedom from jury duty.
+
+❦
+
+ 41 *Cf.* Dio, 60.28.
+
+❦
+
+ 42 Only a Roman citizen had the right to wear the toga.
+
+❦
+
+ 43 On these see *Aug.* xxxix.
+
+❦
+
+ 44 By affixing the nota, or mark of disgrace, to their names on the census-list.
+
+❦
+
+ 45 Referring to the street or quarter; see note on chap. v.
+
+❦
+
+ 46 Suetonius is vague. Dio, 60.19, says that one Bericus, who had been expelled from the island during a revolution, (p35)persuaded Claudius to send troops there. Possibly the reference is to the deserters mentioned in *Calig.* xliv.
+
+❦
+
+ 47 A suburb of Rome, lying north of the city, outside of the Servian wall.
+
+ Thayer's Note: For comprehensive details and sources, see the article Aemiliana in Platner and Ashby's *Topographical Dictionary of Ancient Rome*.
+
+❦
+
+ 48 A large building in the campus Martius, where the votes cast in the elections were sorted and counted; according to Dio, 55.8, the largest building ever covered by a single roof.
+
+ Thayer's Note: For comprehensive details and sources, see the article Diribitorium in Platner and Ashby's *Topographical Dictionary of Ancient Rome*.
+
+❦
+
+ 49 Passed in 9 A.D., after the failure of Augustus' law *de maritandis ordinibus*; see *Aug.* xxxiv.
+
+❦
+
+ 50 See note on *Aug.* xlvii.
+
+❦
+
+ 51 These were numerous and varied; *cf.* Dio, 55.2.
+
+❦
+
+ 52 This had been brought by Gaius from Heliopolis and set up in the spina of his circus, near the Vatican hill. It now stands before the cathedralº of St. Peter. The great ship in which it was transported to Rome from Alexandria is described by Plin. *N. H.* 16.201.
+
+ Thayer's Note: For comprehensive details and sources on the obelisk and its moves, including a photograph of a 16c reconstruction of the obelisk ship arriving at Ostia, see the article Obeliscus Vaticanus in Platner and Ashby's *Topographical Dictionary of Ancient Rome*.
+
+❦
+
+ 53 Pompey placed the temple of Venus Victrix at the top of his theatre, so that the seats of the auditorium formed an approach to it. There were also shrines of Honour, Virtus and Felicitas; see Plin. *N. H.* 8.20.
+
+❦
+
+ 54 See *Aug.* xxxi.4.
+
+❦
+
+ 55 Built by Gaius; see note on chap. xx.3.
+
+❦
+
+ 56 The carceres were compartments closed by barriers, one for each chariot. They were probably twelve in number and were so arranged as to be at an equal distance from the starting point of the race. When the race began, the barriers were removed. The metae, or "goals," were three conical pillars at each end of the spina, or low wall which ran down the middle of the arena, about which the chariots had to run a given number of times, usually seven; see *Dom.* iv.3.
+
+ Thayer's Note: For comprehensive details and sources, see the article Circus Maximus in Platner and Ashby's *Topographical Dictionary of Ancient Rome*; and for the mechanics of the circus, photographs of the remains of carceres and metae, etc., the article Circus in Smith's *Dictionary of Greek and Roman Antiquities*, and further links there.
+
+❦
+
+ 57 See note on *Aug.* lxxiv.
+
+❦
+
+ 58 Instead of keeping it covered with his toga, an undignified performance for an emperor.
+
+❦
+
+ 59 "The Dove," nickname of a gladiator.
+
+❦
+
+ 60 The symbol of discharge; *cf.* Hor. *Epist.* 1.1.2.
+
+❦
+
+ 61 See note on *Calig.* xxxv.3.
+
+❦
+
+ 62 About to die; one of Claudius's feeble jokes, which the combatants pretended to understand as meaning that they need not risk their lives in battle.
+
+❦
+
+ 63 See chap. xxx below.
+
+❦
+
+ 64 That those whom he had selected were worthy of the honour.
+
+❦
+
+ 65 See *Galba*, xiv.3, from which it appears that Claudius made the summer and autumn seasons continuous, and did away with the winter term.
+
+❦
+
+ 66 The relegatio was a milder form of exile, without loss of citizen­ship or confiscation of property, but in this case the offenders were not banished, but confined to the city and its immediate vicinity.
+
+❦
+
+ 67 The procuratores were the emperor's agents, who performed various administrative duties throughout the empire. They were members of the equestrian order and were ranked on the basis of their annual stipend as trecenarii, ducenarii, (p47)centenarii, and sexagenarii, receiving respectively 300,000, 200,000, 100,000, and 60,000 sesterces.
+
+❦
+
+ 68 A common reason for this was the desire to engage in business, which senators were not allowed to do.
+
+❦
+
+ 69 The state treasury, located in the temple of Saturn in the Forum; *cf.* *Aug.* xxxvi.
+
+❦
+
+ 70 According to Tac., Ann. 11.20, this was done by the legions in Germany.
+
+❦
+
+ 71 That is, if their own freedmen proved ungrateful and they wished to bring suit against them.
+
+❦
+
+ 72 In the Tiber at Rome, so‑called from its temple of Aesculapius.
+
+ Thayer's Note: For details and sources on the island and the temple, plus photographs, see the article Insula Tiberina in Platner and Ashby's *Topographical Dictionary of Ancient Rome*, and the further links there; for the practice of incubatio to cure cases of hopeless illness, see the article Oraculum in Smith's *Dictionary of Greek and Roman Antiquities*.
+
+❦
+
+ 73 That is, the gentile names such as Claudius, Cornelius, etc.; apparently forenames (Gaius, Lucius, and the like) and surnames (Lentulus, Nasica) might be assumed, although a foreigner often retained his native name as a surname.
+
+❦
+
+ 74 The part of the Esquiline hill on both sides of the Servian wall; occupied in part by the Gardens of Maecenas; see Hor. *Serm.* 1.8. The place of execution seems to have been outside of the Porta Esquilina.
+
+❦
+
+ 75 Another form of Christus; see Tert. *Apol.* 3 (at the end). It is uncertain whether Suetonius is guilty of an error in chronology or is referring to some Jew of that name. The former seems probable because of the absence of quodam. Tac. *Ann.* 15.44, uses the correct form, Christus, and states that He was executed in the reign of Tiberius.
+
+❦
+
+ 76 The gender is not significant; *cf.* Livy 1.24; Varr. *R. R.* 2.4.9.
+
+❦
+
+ 77 See Livy 1.24.
+
+ Thayer's Note: The fetially challenged may usefully consult the article Fetiales in Smith's *Dictionary of Greek and Roman Antiquities*.
+
+❦
+
+ 78 Of Claudius from Urgulanilla.
+
+❦
+
+ 79 Either Suetonius is in error here, or the text is corrupt, since Claudius' second consul­ship did not begin until 42, and he began to reign Jan. 25, 41.
+
+❦
+
+ 80 A common military prize.
+
+ Thayer's Note: For details and sources, see the article Hasta in Smith's *Dictionary of Greek and Roman Antiquities*.
+
+❦
+
+ 81 Only two of these are known, both named Drusilla. One was the daughter of Juba II, king of Mauretania, and the other of Herod Agrippa I, of Judaea; the latter was previously married to Azizus, king of Emesa.
+
+❦
+
+ 82 Otherwise restricted to knights.
+
+❦
+
+ 83 Chap. xxv.
+
+❦
+
+ 84 The fulcra were the ends of the couches on which the pillows were placed; see *Class. Rev.* 3, pp322 ff.
+
+❦
+
+ 85 *Cf.* *Aug.* lxiv.3.
+
+❦
+
+ 86 Their feasts were proverbial for luxury; see Hor. *Odes*, I.37.2.
+
+❦
+
+ 87 See *Aug.* xxxiii.1.
+
+❦
+
+ 88 See Livy, I.26.6; *Nero*, xlix.2; *Dom.* xi.2‑3.
+
+ Thayer's Note: The question isn't as cut-and‑dry as it seems (things never are); see the comprehensive discussion in TAPA XXXIX.49‑72.
+
+❦
+
+ 89 Their faces were not covered by helmets; see Index, *s.v.* retiarius.
+
+ Thayer's Note: Or better, with a small woodcut, under Gladiatores in Smith's *Dictionary of Greek and Roman Antiquities*.
+
+❦
+
+ 90 According to Plin. *N. H.* 28.34, game killed with a knife with which a man had been slain was a specific for epilepsy.
+
+❦
+
+ 91 Those who fought during the midday interval, perhaps the paegniarii; See *Calig.* xxvi.5, with the reference to Friedländer there given.
+
+❦
+
+ 92 A structure with several movable stories, for show pieces and other stage effects; see Juv. 4.122, and Mayor's note.
+
+ Thayer's Note: Failing Prof. Mayor's note, see the article Pegma in Smith's *Dictionary of Greek and Roman Antiquities*, with many further references.
+
+❦
+
+ 93 See note on *Aug.* xix.1.
+
+❦
+
+ 94 Chap. xii.
+
+❦
+
+ 95 Chap. xiii.
+
+❦
+
+ 96 Of the praetorian guard, in the north-eastern part of the city.
+
+❦
+
+ 97 Narcissus.
+
+❦
+
+ 98 See note on chap. xxiii.2.
+
+❦
+
+ 99 See *Tib.* xxxiv.1. Claudius apparently allowed greater freedom. The restrictions were renewed by Nero (see *Nero*, xvi.2), and according to Dio, 60.6, Claudius himself (later?) issued an edict forbidding the sale of dressed meats and hot water, as well as abolishing the drinking-booths.
+
+❦
+
+ 100 Obviously some man proverbial for his folly; but nothing is known about him.
+
+❦
+
+ 101 The famous historian.
+
+❦
+
+ 102 Because he stammered; see chap. xxx.
+
+❦
+
+ 103 His grandmother Octavia was the widow, and his mother Antonia the daughter, of Mark Antony.
+
+❦
+
+ 104 These were , to represent the sound between u and i in maxumus, maximus, etc.; Ↄ, for the sound of bs as ps; for consonant u.
+
+ Thayer's Note: So the Loeb edition, against which I've carefully proofread this page; but it's not quite right. The Loeb edition reproduces the third letter backwards; it should be , and elsewhere in a Loeb edition (of Tacitus, at XI.14 n.) the editors get it right: the matter is settled by a clear photograph, inscription 43 in Arthur E. Gordon, *Illustrated Introduction to Latin Epigraphy*, of a cippus erected by Claudius to mark the pomerium of Rome, dated to his 9th tribunician year, 25 Jan 49 to 24 Jan 50; in the Museo Nazionale Romano, inventory no. 61132.
+
+ Opinions also differ as to exactly what sound was represented by ; other opinions are that it was the same as the Greek **Υ** (but then, why?); and a sound between e and i. According to Gordon again, it is always found repla­cing the Greek upsilon.
+
+ One further mystifying item: Ↄ has never yet been seen on a Roman inscription, at least not as a Claudian letter; and none of the authorities (Suetonius, Quintilian I.7.26, and Tacitus, *Ann.* 11.13) for these three letters describes them — so how do we know what it looked like? If you happen to know, please drop me a line, of course.
+
+ But back to . . . here is a photo of my own, from an inscription in a wall of the church of S. Pietro near Spoleto:
+
+| |
+
+ Now this looks very much like a reversed form of one of Claudius' letters, and suggests that obedient but uninstructed stonecutters, faced with the new-fangled glyphs the emperor had invented, may have found plenty of room for variation. Unfortunately for me (since I've never personally seen, on the hoof, an incontrovertible example of any of them), all of that has to be tossed out, since rather than a Claudian letter we merely have an elegant half‑H designed to nest nicely into the T preceding it, and the man's name was C. Nonius T**h**yr. . . (CIL XI.4896 ). The full inscription is here.
+
+❦
+
+ 105 See *Jul.* xx.1, at the beginning.
+
+❦
+
+ 106 *i.e.* in Greek; *cf.* *Tib.* lxxi.
+
+❦
+
+ 107 Referring to the cohort on guard at the Palace; *cf.* chap. x.
+
+❦
+
+ 108 *Iliad*, 24.369; *Odyss.* 21.133.
+
+❦
+
+ 109 A proverbial expression, derived from the story of Telephus, who when wounded by Achilles was told by the oracle that he could be cured only by the one who dealt the blow. Achilles cured him by applying rust from his spear to the wound.
+
+❦
+
+ 110 That is, a legitimate heir to the throne.
+
+❦
+
+ 111 The northern spur of the Capitoline Hill.
+
+ Thayer's Note: Normally referred to by its Latin name, the Arx. See the article in Platner and Ashby's *Topographical Dictionary of Ancient Rome*.
+
+❦
+
+ 112 The formula was "Di meliora (duint)!" "May the Gods grant better things," *i.e.* "the Gods forbid!"
+
+## Thayer's Notes:
+
+ a This, and Cassius Dio, 60.33.4, referring to the same episode, are the only two passages in all of ancient literature to quote this salute. Despite popular novels and movies, there is no indication anywhere that gladiators regularly shouted this. A more detailed discussion is found in "Morituri te Salutamus" (TAPA 70:46‑50).
+
+❦
+
+ b The moral judgments are those of the translator; neither one is to be found in Suetonius himself, who simply writes Libidinis in feminas profusissimae, marum omnino expers. "(He was) very strongly attracted to women, altogether uninvolved with men."
+
+| |
+
+ Images with borders lead to more information.
+ The thicker the border, the more information. (Details here.)
+
+| | UP TO: |
+ XII Caesars |
+ Suetonius |
+ Latin & Greek

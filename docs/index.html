@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jesus Christ — evidence archive</title>
+<meta name="description" content="A searchable archive of the sources cited in a chronological research dossier on Jesus: scripture, gospels, church fathers, ancient witnesses, legal documents, archaeology, and the reference register.">
+<link rel="stylesheet" href="./assets/app.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+  <a class="brand" href="#/" data-link>
+    <span class="brand-mark" aria-hidden="true">✦</span>
+    <span class="brand-text">Jesus Christ <span class="muted">— evidence archive</span></span>
+  </a>
+  <form class="searchbox" role="search" id="search-form" autocomplete="off">
+    <input id="q" name="q" type="search" placeholder="Search 480 documents and 238 references   /"
+           aria-label="Search the archive" spellcheck="false">
+    <div class="search-results" id="search-results" role="listbox" aria-label="Search results" hidden></div>
+  </form>
+  <div class="topbar-actions">
+    <button id="theme" class="icon-btn" type="button" aria-label="Toggle colour theme" title="Toggle colour theme">◐</button>
+    <button id="nav-toggle" class="icon-btn" type="button" aria-label="Toggle index" aria-expanded="false" title="Index">☰</button>
+  </div>
+</header>
+
+<div class="shell">
+  <aside class="sidebar" id="sidebar" aria-label="Archive index">
+    <div class="sidebar-inner" id="nav"></div>
+    <div class="sidebar-foot">
+      <a href="https://github.com/0xSero/all-historical-evidence-of-jesus-christ" data-ext>repository</a>
+      <span class="muted">·</span>
+      <a href="./data/docs.json" data-ext>data</a>
+    </div>
+  </aside>
+
+  <main id="main" class="main" tabindex="-1">
+    <noscript>
+      <p class="notice">This archive needs JavaScript for search and reading. Every document is also a Markdown file in the
+      <a href="https://github.com/0xSero/all-historical-evidence-of-jesus-christ">repository</a>.</p>
+    </noscript>
+  </main>
+
+  <aside class="toc" id="toc" aria-label="On this page" hidden></aside>
+</div>
+
+<aside class="panel" id="panel" hidden aria-live="polite"></aside>
+
+<script src="./assets/app.js"></script>
+</body>
+</html>
