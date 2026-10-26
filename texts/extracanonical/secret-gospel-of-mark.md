@@ -1,4 +1,4 @@
-<!-- Source: https://www.gospels.net/secret-gospel-of-mark — translation by Mark M. Mattison, dedicated to the public domain by the translator. -->
+<!-- Source: https://www.gospels.net/secret-gospel-of-mark — translation by Samuel Zinner, dedicated to the public domain by the translator. -->
 
 # **The Secret Gospel of Mark**
 

@@ -2,11 +2,11 @@
 
 Every file here is public domain. Canonical status, dates, and manuscript witnesses for each text are in [GOSPEL-REGISTRY.md](../../GOSPEL-REGISTRY.md).
 
-There is no public-domain English translation of the complete Nag Hammadi library: the standard editions (Robinson, Meyer, Layton) are under copyright. This folder therefore collects every public-domain gnostic gospel translation found: Mattison's modern translations and the older Gutenberg editions. Texts without a free translation are listed in the registry with "—".
+**Our Gnostic Bible** is [0xSero/gnostic-gospels](https://github.com/0xSero/gnostic-gospels): eleven PDFs with a translator and SHA-256 for each in `MANIFEST.json`. The registry links to those editions as GG 00–11. Nine of its translations come from Robinson's *Nag Hammadi Library* and are under copyright, so they are not duplicated here. This folder adds public-domain translations instead: the gospels.net translations below and the older Gutenberg/CCEL editions. Texts with no free translation and no GG edition are listed in the registry with "—".
 
-## Modern public-domain translations (Mark M. Mattison, [gospels.net](https://www.gospels.net/))
+## Modern public-domain translations ([gospels.net](https://www.gospels.net/))
 
-The translator dedicated these to the public domain: "may be freely copied and used, changed or unchanged, for any purpose." Each file starts with an HTML comment giving its source URL. Affiliate-link paragraphs from the website are removed. Translator notes are kept.
+All are by Mark M. Mattison except the Secret Gospel of Mark, which is by Samuel Zinner. Each translator dedicated his work to the public domain: "may be freely copied and used, changed or unchanged, for any purpose." Each file starts with an HTML comment giving its source URL and translator. Affiliate-link paragraphs from the website are removed. Translator notes are kept.
 
 | File | Text | Based on |
 |---|---|---|
