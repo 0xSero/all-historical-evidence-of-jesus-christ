@@ -75,8 +75,8 @@ the same work, and the marker that was found in that document to confirm the mat
 | A30 | Museum of the Bible and Israel Antiquities Authority, The Megiddo Mosaic: Foundations of Faith | archaeology/megiddo-mosaic | megiddo |
 | A31 | Archaeological Museum Frankfurt, Frankfurt Silver Inscription Museum's 230-260 CE grave dating and 2024 public | archaeology/frankfurt-silver-amulet | amule |
 | A32 | Dicastery for the Doctrine of the Faith, Norms for Proceeding in the Discernment of Alleged Supernatural Pheno | denominational/norms-supernatural-phenomena-2024 | supernatural |
-| A34 | Pope Francis, Dilexit nos (24 October 2024), especially section 119 Sacred Heart devotion and Margaret Mary Al | denominational/dilexit-nos-2024 | dilexit nos |
-| A42 | Second Vatican Council, Nostra aetate (28 October 1965), section 4 Rejects collective guilt for the passion an | denominational/nostra-aetate-1965 | nostra aetate |
+| A34 | Pope Francis, Dilexit nos (24 October 2024), especially section 119 Sacred Heart devotion and Margaret Mary Al | denominational/dilexit-nos-2024 | sacred heart |
+| A42 | Second Vatican Council, Nostra aetate (28 October 1965), section 4 Rejects collective guilt for the passion an | denominational/nostra-aetate-1965 | collective |
 | A47 | Cesar Barta and Elisa Maria Ruiz-Navas, Bleaching of historical old linen fabrics: the case of the Shroud of T | archaeology/shroud-of-turin-radiocarbon | shroud |
 | A55 | Kyle Harper et al., Establishing the provenance of the Nazareth Inscription: Using stable isotopes to resolve  | archaeology/nazareth-inscription | nazareth |
 | P02 | Galatians 3, text and notes USCCB, New American Bible Revised Edition | scripture/new-testament/09-galatians | ## Chapter 3 |

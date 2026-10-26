@@ -78,8 +78,8 @@ RULES: list[tuple[str, str, str]] = [
     (r"dead sea scrolls|great isaiah scroll", "archaeology/dead-sea-scrolls-isaiah", "isaiah"),
     (r"radiocarbon dating of the shroud|shroud of turin|x-ray dating.*shroud|textile fragments", "archaeology/shroud-of-turin-radiocarbon", "shroud"),
     # Church documents
-    (r"nostra aetate", "denominational/nostra-aetate-1965", "nostra aetate"),
-    (r"dilexit nos", "denominational/dilexit-nos-2024", "dilexit nos"),
+    (r"nostra aetate", "denominational/nostra-aetate-1965", "collective"),
+    (r"dilexit nos", "denominational/dilexit-nos-2024", "sacred heart"),
     (r"norms for proceeding.*supernatural|discernment of alleged supernatural", "denominational/norms-supernatural-phenomena-2024", "supernatural"),
     (r"common christological declaration", "legal/common-christological-declaration-1994", "assyrian"),
     (r"catechism of the catholic church", "denominational/catechism-ccc-464-469", "464"),

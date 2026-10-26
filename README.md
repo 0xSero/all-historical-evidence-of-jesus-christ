@@ -66,7 +66,10 @@ Everything derived is reproducible:
 
 Mirrored texts are public domain: the World English Bible (public domain; "World English Bible" is a trademark of eBible.org, and the wording here is unaltered), the Ante-Nicene and Nicene-and-Post-Nicene Fathers translations, Whiston's Josephus, the Fowler Lucian, Cureton's Mara bar Serapion, Palmer's Qur'an, Project Gutenberg editions, and Mark M. Mattison's public-domain gospel translations.
 
-**One exception:** the Talmud passage in [collections/witnesses/talmud-sanhedrin-43a.md](collections/witnesses/talmud-sanhedrin-43a.md) is the William Davidson edition, licensed **CC BY-NC 4.0**. The public-domain English translation of Sanhedrin (Rodkinson, 1918) omits this passage. The licence is recorded in that file's metadata.
+Two exceptions are labelled in their own metadata and in the site:
+
+- **Talmud, Sanhedrin 43a** ([collections/witnesses/talmud-sanhedrin-43a.md](collections/witnesses/talmud-sanhedrin-43a.md)) is the William Davidson edition, **CC BY-NC 4.0**. The public-domain English translation of Sanhedrin (Rodkinson, 1918) omits this passage entirely.
+- **Holy See documents are linked, not copied.** Nostra aetate, Dilexit nos, the 2024 norms on alleged supernatural phenomena, the 1994 Common Christological Declaration, and the Catechism paragraphs are recorded as citation cards with a summary and a link to vatican.va. The Vatican asserts copyright over its documents, so no full text is mirrored here.
 
 Copyrighted scholarship is **linked, never copied**. Museum and archaeology entries are original summaries written for this archive, with links to the holding institution; no inscription text or photograph is reproduced where its translation or image is still in copyright.
 
