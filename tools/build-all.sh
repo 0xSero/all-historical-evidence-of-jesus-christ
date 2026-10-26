@@ -20,7 +20,7 @@ python3 tools/make_cards.py
 python3 tools/make_links.py
 python3 tools/build_catalog.py
 python3 tools/build_site.py
-python3 tools/verify_sources.py || true
+python3 tools/verify_sources.py
 python3 tools/update_readme_counts.py
 python3 tools/check_site.py
 echo "build complete"
