@@ -22,7 +22,7 @@ python3 -m http.server -d docs 8123   # then open http://127.0.0.1:8123/
 | [gospels](collections/gospels/) | 20 | Thomas, Philip, Truth, Mary, Judas, Peter, Egerton, the infancy gospels, Q, P.Oxy. 5575, Nicodemus, the Diatessaron |
 | [fathers](collections/fathers/) | 14 | Didache, Clement, Ignatius, Papias, Justin, Irenaeus, Eusebius, Origen, Hippolytus, Athanasius |
 | [witnesses](collections/witnesses/) | 8 | Josephus, Tacitus, Suetonius, Lucian, Mara bar Serapion, the Talmud, Thallus and Phlegon |
-| [legal](collections/legal/) | 2 | Pliny and Trajan, Hadrian's rescript, the 1994 Common Christological Declaration |
+| [legal](collections/legal/) | 3 | Pliny and Trajan, Hadrian's rescript, the 1994 Common Christological Declaration |
 | [archaeology](collections/archaeology/) | 9 | Pilate inscription, both ossuaries, Dura-Europos, Megiddo, the Frankfurt amulet, Nazareth inscription, Isaiah scroll, the shroud |
 | [denominational](collections/denominational/) | 3 | Nostra aetate, Dilexit nos, the 2024 norms on alleged supernatural phenomena |
 | [registry](collections/registry/) | 1 | Thirty-six gospels and gospel-type texts with dates, manuscripts, ancient verdicts, and canonical status in each tradition. |

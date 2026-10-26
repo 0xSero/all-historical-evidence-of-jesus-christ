@@ -35,7 +35,7 @@
    "id": "legal",
    "title": "Legal and administrative documents",
    "blurb": "Roman rescripts, edicts, inscriptions, and official correspondence that mention Christians or Jesus.",
-   "docs": 2
+   "docs": 3
   },
   {
    "id": "archaeology",
@@ -672,7 +672,9 @@
    "words": 7410,
    "chars": 39094,
    "excerpt": "A.L.M. God, there is no god but He, the living, the self-subsistent. He has sent down to thee the Book in truth, confirming what was before it, and has revealed the law, and the gospel before for the guidance of men, and has revealed the Discrimination.",
-   "refs": []
+   "refs": [
+    "R98"
+   ]
   },
   {
    "id": "scripture/quran/surah-04",
@@ -688,7 +690,9 @@
    "words": 7339,
    "chars": 38858,
    "excerpt": "O ye folk! fear your Lord, who created you from one soul, and created therefrom its mate, and diffused from them twain many men and women. And fear God, in whose name ye beg of one another, and the wombs; verily, God over you doth watch[1].",
-   "refs": []
+   "refs": [
+    "R90"
+   ]
   },
   {
    "id": "scripture/quran/surah-05",
@@ -704,7 +708,9 @@
    "words": 5664,
    "chars": 29879,
    "excerpt": "O ye who believe! fulfil your compacts.—Lawful for you are brute beasts, save what is here recited to you, not allowing you the chase while ye are on pilgrimage; verily, God ordaineth what He will.",
-   "refs": []
+   "refs": [
+    "R93"
+   ]
   },
   {
    "id": "scripture/quran/surah-19",
@@ -720,7 +726,9 @@
    "words": 2297,
    "chars": 11527,
    "excerpt": "K. H. Y. ʿH. Z. The mention of thy Lord’s mercy to His servant Zachariah, when he called on his Lord with a secret calling. Said he, ‘ My Lord ! verily, my bones are weak, and my head flares with hoariness ; — and I never was unfortunate in my prayers to Thee, my Lord ! 5 But I fear my heirs after m",
-   "refs": []
+   "refs": [
+    "R91"
+   ]
   },
   {
    "id": "gospels/egerton-gospel",
@@ -1450,6 +1458,24 @@
    ]
   },
   {
+   "id": "legal/common-christological-declaration-1994",
+   "title": "Common Christological Declaration between the Catholic Church and the Assyrian Church of the East (1994)",
+   "collection": "legal",
+   "path": "legal/common-christological-declaration-1994.md",
+   "kind": "primary",
+   "bucket": "",
+   "source_name": "The Holy See (vatican.va)",
+   "source_url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/november/documents/hf_jp-ii_spe_19941111_dichiarazione-cristologica.html",
+   "license": "© Libreria Editrice Vaticana; official magisterial document",
+   "fetched": "2026-10-26",
+   "words": 1140,
+   "chars": 6806,
+   "excerpt": "Common Christological Declaration between the Catholic Church and the Assyrian Church of the East (November 11, 1994)",
+   "refs": [
+    "R84"
+   ]
+  },
+  {
    "id": "legal/hadrian-rescript-minucius-fundanus",
    "title": "Eusebius, Church History 4.9 — Hadrian's Rescript to Minucius Fundanus",
    "collection": "legal",
@@ -2145,11 +2171,11 @@
    "kind": "secondary",
    "bucket": "modern",
    "source_name": "Jesus_Christ_Research_Dossier.pdf, reference register",
-   "source_url": "",
+   "source_url": "https://www.inscriptionsisraelpalestine.org/",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 73,
-   "chars": 544,
+   "words": 71,
+   "chars": 577,
    "excerpt": "",
    "refs": []
   },
@@ -7258,7 +7284,7 @@
     "04-documentary-record": 1,
     "07-references": 1
    },
-   "doc": null
+   "doc": "legal/common-christological-declaration-1994"
   },
   {
    "id": "R85",
@@ -7382,7 +7408,7 @@
     "04-documentary-record": 1,
     "07-references": 1
    },
-   "doc": null
+   "doc": "scripture/quran/surah-04"
   },
   {
    "id": "R91",
@@ -7401,7 +7427,7 @@
     "04-documentary-record": 1,
     "07-references": 1
    },
-   "doc": null
+   "doc": "scripture/quran/surah-19"
   },
   {
    "id": "R92",
@@ -7439,7 +7465,7 @@
     "04-documentary-record": 1,
     "07-references": 1
    },
-   "doc": null
+   "doc": "scripture/quran/surah-05"
   },
   {
    "id": "R94",
@@ -7538,7 +7564,7 @@
     "04-documentary-record": 1,
     "07-references": 1
    },
-   "doc": null
+   "doc": "scripture/quran/surah-03"
   },
   {
    "id": "R99",

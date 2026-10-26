@@ -81,6 +81,13 @@ RULES: list[tuple[str, str, str]] = [
     (r"nostra aetate", "denominational/nostra-aetate-1965", "nostra aetate"),
     (r"dilexit nos", "denominational/dilexit-nos-2024", "dilexit nos"),
     (r"norms for proceeding.*supernatural|discernment of alleged supernatural", "denominational/norms-supernatural-phenomena-2024", "supernatural"),
+    (r"common christological declaration", "legal/common-christological-declaration-1994", "assyrian"),
+    (r"catechism of the catholic church", "citations/catechism-ccc-464-469", "464"),
+    # Qur'an
+    (r"qur.?an 3:45", "scripture/quran/surah-03", "imran"),
+    (r"qur.?an 4:157", "scripture/quran/surah-04", "women"),
+    (r"qur.?an 5:110", "scripture/quran/surah-05", "table"),
+    (r"qur.?an 19:16", "scripture/quran/surah-19", "mary"),
 ]
 
 COMPILED = [(re.compile(p, re.I), doc, marker) for p, doc, marker in RULES]

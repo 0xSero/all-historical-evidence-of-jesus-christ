@@ -35,6 +35,11 @@ the same work, and the marker that was found in that document to confirm the mat
 | R48 | Emily Lafleche, NASSCAL e-Clavis, “Gospel of Philip” Valentinian sacramental collection, dating, manuscript, M | gospels/gospel-of-philip | philip |
 | R49 | Gospel of Truth, translation by Harold W. Attridge and George W. MacRae | gospels/gospel-of-truth | truth |
 | R53 | Julia D. Lindenlaub, NASSCAL e-Clavis, “Apocryphon of James” | gospels/secret-book-of-james | james |
+| R84 | Common Christological Declaration between the Catholic Church and the Assyrian Church of the East, 11 November | legal/common-christological-declaration-1994 | assyrian |
+| R90 | Qur’an 4:157-158 Qur’anic denial of opponents killing/crucifying Jesus and affirmation that God raised him. | scripture/quran/surah-04 | women |
+| R91 | Qur’an 19:16-36 Mary, extraordinary conception/birth, infant speech, Jesus’s prophetic status. | scripture/quran/surah-19 | mary |
+| R93 | Qur’an 5:110 Jesus’s infant speech, clay bird, healing, and raising dead by divine permission. | scripture/quran/surah-05 | table |
+| R98 | Qur’an 3:45 Jesus named Messiah and a word from God; interpretation within Qur’anic framework. | scripture/quran/surah-03 | imran |
 | R101 | Suetonius, Life of Nero, chapter 16 Punishment of Christians under Nero; no biographical account of Jesus. | witnesses/suetonius-claudius-25 | claudius |
 | L03 | Luke 3, text and historical notes USCCB, New American Bible Revised Edition | scripture/new-testament/03-luke | ## Chapter 3 |
 | L04 | Mark 14, text and notes USCCB, New American Bible Revised Edition | scripture/new-testament/02-mark | ## Chapter 14 |
