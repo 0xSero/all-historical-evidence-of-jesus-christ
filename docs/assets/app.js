@@ -204,6 +204,11 @@ async function renderDoc(id, anchor) {
       ${data.license ? ` · ${esc(data.license)}` : ""}
       ${refCount ? ` · ${refCount} linked reference${refCount === 1 ? "" : "s"}` : ""}
       · <a href="https://github.com/0xSero/all-historical-evidence-of-jesus-christ/blob/main/collections/${esc(data.path)}" data-ext>markdown</a></div>
+    ${(data.siblings || []).length ? `<section class="related" aria-label="Other sources in this collection">
+      <h2>Other sources in ${esc(collTitle(data.collection))}</h2>
+      <p class="muted">${data.sibling_total > data.siblings.length ? `Showing ${data.siblings.length} of ${data.sibling_total}. Press <kbd>s</kbd> for every source in the archive.` : `Press <kbd>s</kbd> for every source in the archive.`}</p>
+      <ul>${data.siblings.map((id) => `<li><a href="#/doc/${id}" data-link>${esc(state.docs.get(id)?.title || id)}</a></li>`).join("")}</ul>
+    </section>` : ""}
     <nav class="pager" aria-label="Document navigation">
       ${data.prev ? `<a href="#/doc/${data.prev}" data-link><span class="dir">Previous</span>${esc(state.docs.get(data.prev)?.title || data.prev)}</a>` : "<span></span>"}
       ${data.next ? `<a href="#/doc/${data.next}" data-link class="next"><span class="dir">Next</span>${esc(state.docs.get(data.next)?.title || data.next)}</a>` : "<span></span>"}

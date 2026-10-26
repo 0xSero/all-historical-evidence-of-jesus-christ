@@ -130,6 +130,8 @@ def main() -> int:
             "license": d.get("license", ""),
             "path": d["path"],
             "words": d["words"],
+            "siblings": [x["id"] for x in docs if x["collection"] == d["collection"] and x["id"] != d["id"]][:12],
+            "sibling_total": sum(1 for x in docs if x["collection"] == d["collection"]) - 1,
         }
         target = DATA / "doc"
         target.mkdir(parents=True, exist_ok=True)
