@@ -6,7 +6,7 @@ This repository holds three things:
 2. **The sources it cites** — every ancient text the dossier quotes, mirrored in a public-domain translation where one exists, with the exact destination of every reference link taken from the PDF itself.
 3. **A readable, searchable site** — [docs/index.html](docs/index.html), which turns the collections into a searchable archive with a reading pane, reference cards, and cross-links between the dossier's passages and the documents behind them.
 
-**Read it:** <https://0xsero.github.io/all-historical-evidence-of-jesus-christ/>
+**Read it:** <https://sybil-solutions.github.io/all-historical-evidence-of-jesus-christ/>
 
 Every page carries two ways to reach every other source: hover any source link for a preview card (title, collection, excerpt, word count), and press `s` or click **All sources** in the top bar for the full list of all 335 documents, filterable, with arrow-key navigation. Deep links are hash routes, so they survive reloads; a `404.html` rewrites path-style links such as `/doc/fathers/didache` to the right page.
 

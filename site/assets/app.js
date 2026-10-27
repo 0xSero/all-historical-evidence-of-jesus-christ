@@ -203,7 +203,7 @@ async function renderDoc(id, anchor) {
       ${data.source_url ? ` · <a href="${esc(data.source_url)}" data-ext>original</a>` : ""}
       ${data.license ? ` · ${esc(data.license)}` : ""}
       ${refCount ? ` · ${refCount} linked reference${refCount === 1 ? "" : "s"}` : ""}
-      · <a href="https://github.com/0xSero/all-historical-evidence-of-jesus-christ/blob/main/collections/${esc(data.path)}" data-ext>markdown</a></div>
+      · <a href="https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ/blob/main/collections/${esc(data.path)}" data-ext>markdown</a></div>
     ${(data.siblings || []).length ? `<section class="related" aria-label="Other sources in this collection">
       <h2>Other sources in ${esc(collTitle(data.collection))}</h2>
       <p class="muted">${data.sibling_total > data.siblings.length ? `Showing ${data.siblings.length} of ${data.sibling_total}. Press <kbd>s</kbd> for every source in the archive.` : `Press <kbd>s</kbd> for every source in the archive.`}</p>
@@ -226,8 +226,8 @@ async function renderDoc(id, anchor) {
 function renderNotFound(id) {
   const known = state.docs.get(id);
   const raw = known
-    ? `https://github.com/0xSero/all-historical-evidence-of-jesus-christ/blob/main/collections/${esc(known.path)}`
-    : "https://github.com/0xSero/all-historical-evidence-of-jesus-christ/tree/main/collections";
+    ? `https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ/blob/main/collections/${esc(known.path)}`
+    : "https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ/tree/main/collections";
   main.innerHTML = `<div class="main-inner"><h1 class="page-title">This document could not be loaded</h1>
     <p class="page-lede"><code>${esc(id)}</code> is${known ? "" : " not"} in the catalog, but its rendered page
       did not arrive. The Markdown source is always available:
