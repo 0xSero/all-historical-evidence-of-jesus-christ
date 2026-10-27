@@ -8,6 +8,10 @@ This repository holds three things:
 
 **Read it:** <https://sybil-solutions.github.io/all-historical-evidence-of-jesus-christ/>
 
+The companion archive is
+[historical-evidence-for-john-the-baptist](https://sybil-solutions.github.io/historical-evidence-for-john-the-baptist/):
+the dossier on John, Josephus and Origen in full, the Qur'an on Yahya, and the archaeology of Machaerus and the Jordan.
+
 Every page carries two ways to reach every other source: hover any source link for a preview card (title, collection, excerpt, word count), and press `s` or click **All sources** in the top bar for the full list of all 335 documents, filterable, with arrow-key navigation. Deep links are hash routes, so they survive reloads; a `404.html` rewrites path-style links such as `/doc/fathers/didache` to the right page.
 
 To run the same site locally, open `docs/index.html`, or serve it:
