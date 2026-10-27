@@ -15,17 +15,20 @@
   // Deep links sometimes arrive as real paths rather than hash routes
   // (/doc/fathers/didache instead of /#/doc/fathers/didache). Rewrite them so
   // the reader opens the right page instead of a 404.
+  // The replacement target is absolute: a relative "./" resolves against the
+  // deep path's own directory and silently drops the collection segment.
   (function () {
     var base = /\/all-historical-evidence-of-jesus-christ\/?/.exec(location.pathname);
+    var root = location.origin + (base ? base[0] : "/");
     var rest = base ? location.pathname.slice(base[0].length) : location.pathname.replace(/^\//, "");
     var map = { "doc/": "#/doc/", "ref/": "#/ref/", "collection/": "#/collection/", "search/": "#/search/" };
     for (var key in map) {
       if (rest.indexOf(key) === 0) {
-        location.replace("./" + map[key] + rest.slice(key.length).replace(/\/$/, ""));
+        location.replace(root + map[key] + rest.slice(key.length).replace(/\/$/, ""));
         return;
       }
     }
-    if (rest) location.replace("./");
+    if (rest) location.replace(root);
   })();
 </script>
 </head>
